@@ -1,2 +1,2 @@
 # Estatica-Descritiva
-Pratica de Analise de Dados.
+Pratica de Ánalise de Dados.
