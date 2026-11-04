@@ -1,0 +1,34 @@
+USE analise_vendas;
+show tables;
+
+select * from clientes;
+select * from PRODUTOS;
+select * from vendas;
+
+SELECT p.id_produto, p.nome_produto, p.categoria
+FROM produtos AS p
+LEFT OUTER JOIN vendas AS v
+on p.id_produto = v.id_produto
+UNION
+SELECT p.id_produto, p.nome_produto, p.categoria
+FROM produtos AS p
+RIGHT OUTER JOIN vendas AS v
+on p.id_produto = v.id_produto;
+
+SELECT c.id_cliente, c.nome, c.estado
+FROM clientes AS c
+left OUTER JOIN vendas AS v
+on c.id_cliente = v.id_cliente;
+
+SELECT c.nome, c.estado, p.nome_produto, p.categoria, v.quantidade
+FROM clientes c
+INNER JOIN vendas v
+	ON c.id_cliente = v.id_cliente
+INNER JOIN produtos p
+	ON v.id_venda = p.id_produto;
+
+SELECT c.nome, c.estado
+FROM clientes c
+LEFT JOIN vendas v
+	ON c.id_cliente = v.id_cliente
+WHERE v.id_venda = 100;
