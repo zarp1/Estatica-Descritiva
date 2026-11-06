@@ -1,0 +1,68 @@
+-- id_venda, data, nome_cliente onde status = FINALIZADO (quantidade > 10)
+
+select * from vendas v 
+
+SELECT v.id_venda, c.nome, v.data_venda, v.quantidade
+FROM vendas as v
+LEFT JOIN clientes c ON v.id_cliente = c.id_cliente
+WHERE v.quantidade >= 2
+
+-- id_cliente, nome_cliente, cidade que nao tem pedido
+SELECT c.id_cliente, v.id_cliente, c.nome, c.cidade 
+from clientes c 
+LEFT JOIN vendas v ON c.id_cliente = v.id_cliente
+WHERE v.id_cliente = NULL
+
+-- id_venda, nome_cliente, nome_produto, quantidade, preco_unitario
+-- ordem ascendente
+SELECT v.id_venda, c.nome, v.quantidade, p.preco_unitario
+FROM vendas v
+INNER JOIN clientes c ON v.id_cliente = c.id_cliente 
+INNER JOIN produtos p ON v.id_produto = p.id_produto  
+ORDER BY v.id_venda ASC
+
+-- id_venda, nome_produto, data_venda, valor_total (quantidade*valor)
+-- ordem desc
+SELECT v.id_venda, p.nome_produto, v.data_venda, v.quantidade, p.preco_unitario,
+(v.quantidade * p.preco_unitario) AS valor_total
+FROM vendas v
+LEFT JOIN produtos p ON v.id_produto = p.id_produto
+ORDER BY valor_total DESC 
+
+--test de group by
+SELECT p.nome_produto,  
+(v.quantidade * p.preco_unitario) AS valor_total
+FROM vendas v
+LEFT JOIN produtos p ON v.id_produto = p.id_produto
+GROUP BY p.nome_produto, valor_total
+ORDER BY valor_total DESC 
+
+-- nome_produto, preco_unitario
+-- onde preco_unitario > media preco dos produtos da categoria "Periféricos"
+SELECT * from produtos p 
+
+SELECT p.nome_produto, p.preco_unitario 
+FROM produtos p 
+WHERE p.preco_unitario > (
+	SELECT AVG(p2.preco_unitario) 
+	FROM produtos p2 
+	WHERE categoria = "Periféricos"
+)
+
+-- test de media
+SELECT AVG(p2.preco_unitario) 
+FROM produtos p2 
+WHERE categoria = "Periféricos"
+
+
+
+
+
+
+
+
+
+
+
+
+
