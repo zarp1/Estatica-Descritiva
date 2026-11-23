@@ -1,0 +1,1501 @@
+ID_Registro,CISP,Tipo_Ocorrencia,Qtd_Casos,Prejuizo_Estimado_Mil,Regiao
+OCR-20000,DP-09,Furto de Veículo,6,53.63,Interior Sul
+OCR-20001,DP-25,Furto de Veículo,15,45.67,Interior Norte
+OCR-20002,DP-04,Furto de Veículo,9,46.62,Interior Sul
+OCR-20003,DP-08,Recuperação,11,114.73,Grande Niterói
+OCR-20004,DP-24,Recuperação,7,20.87,Interior Sul
+OCR-20005,DP-16,Recuperação,23,147.83,Capital
+OCR-20006,DP-17,Recuperação,15,15.74,Baixada Fluminense
+OCR-20007,DP-11,Roubo de Veículo,15,90.36,Capital
+OCR-20008,DP-21,Roubo de Veículo,9,63.58,Capital
+OCR-20009,DP-03,Recuperação,8,149.98,Grande Niterói
+OCR-20010,DP-22,Roubo de Veículo,28,680.5,Baixada Fluminense
+OCR-20011,DP-03,Recuperação,9,57.46,Grande Niterói
+OCR-20012,DP-03,Furto de Veículo,7,96.56,Grande Niterói
+OCR-20013,DP-15,Roubo de Veículo,12,101.49,Interior Norte
+OCR-20014,DP-03,Furto de Veículo,7,93.08,Grande Niterói
+OCR-20015,DP-18,Furto de Veículo,13,59.4,Grande Niterói
+OCR-20016,DP-17,Roubo de Veículo,10,65.32,Baixada Fluminense
+OCR-20017,DP-25,Roubo de Veículo,10,133.62,Interior Norte
+OCR-20018,DP-16,Recuperação,12,67.4,Capital
+OCR-20019,DP-05,Furto de Veículo,14,52.18,Interior Norte
+OCR-20020,DP-12,Furto de Veículo,5,16.8,Baixada Fluminense
+OCR-20021,DP-29,Roubo de Veículo,11,59.27,Interior Sul
+OCR-20022,DP-27,Roubo de Veículo,13,111.47,Baixada Fluminense
+OCR-20023,DP-17,Furto de Veículo,6,23.59,Baixada Fluminense
+OCR-20024,DP-28,Recuperação,8,58.54,Grande Niterói
+OCR-20025,DP-10,Furto de Veículo,8,110.28,Interior Norte
+OCR-20026,DP-30,Roubo de Veículo,13,36.12,Interior Norte
+OCR-20027,DP-23,Roubo de Veículo,37,114.66,Grande Niterói
+OCR-20028,DP-03,Roubo de Veículo,44,280.65,Grande Niterói
+OCR-20029,DP-28,Recuperação,22,59.39,Grande Niterói
+OCR-20030,DP-13,Roubo de Veículo,8,20.22,Grande Niterói
+OCR-20031,DP-05,Roubo de Veículo,30,46.24,Interior Norte
+OCR-20032,DP-02,Roubo de Veículo,7,115.01,Baixada Fluminense
+OCR-20033,DP-14,Roubo de Veículo,6,9.56,Interior Sul
+OCR-20034,DP-22,Roubo de Veículo,12,18.14,Baixada Fluminense
+OCR-20035,DP-20,Furto de Veículo,10,132.66,Interior Norte
+OCR-20036,DP-05,Recuperação,8,38.61,Interior Norte
+OCR-20037,DP-05,Furto de Veículo,19,15.66,Interior Norte
+OCR-20038,DP-28,Roubo de Veículo,10,19.0,Grande Niterói
+OCR-20039,DP-28,Furto de Veículo,3,51.97,Grande Niterói
+OCR-20040,DP-04,Furto de Veículo,5,41.23,Interior Sul
+OCR-20041,DP-08,Roubo de Veículo,7,155.49,Grande Niterói
+OCR-20042,DP-18,Furto de Veículo,22,25.89,Grande Niterói
+OCR-20043,DP-16,Roubo de Veículo,12,44.05,Capital
+OCR-20044,DP-02,Furto de Veículo,11,34.69,Baixada Fluminense
+OCR-20045,DP-30,Roubo de Veículo,9,93.14,Interior Norte
+OCR-20046,DP-15,Furto de Veículo,31,47.43,Interior Norte
+OCR-20047,DP-24,Furto de Veículo,19,114.36,Interior Sul
+OCR-20048,DP-08,Recuperação,5,59.93,Grande Niterói
+OCR-20049,DP-28,Furto de Veículo,38,90.14,Grande Niterói
+OCR-20050,DP-17,Roubo de Veículo,12,172.12,Baixada Fluminense
+OCR-20051,DP-03,Furto de Veículo,10,113.26,Grande Niterói
+OCR-20052,DP-26,Furto de Veículo,15,141.9,Capital
+OCR-20053,DP-10,Furto de Veículo,51,93.56,Interior Norte
+OCR-20054,DP-20,Roubo de Veículo,4,68.77,Interior Norte
+OCR-20055,DP-03,Roubo de Veículo,26,740.0,Grande Niterói
+OCR-20056,DP-22,Roubo de Veículo,5,120.66,Baixada Fluminense
+OCR-20057,DP-28,Roubo de Veículo,7,29.43,Grande Niterói
+OCR-20058,DP-25,Roubo de Veículo,37,12.67,Interior Norte
+OCR-20059,DP-15,Roubo de Veículo,7,63.29,Interior Norte
+OCR-20060,DP-18,Roubo de Veículo,3,53.37,Grande Niterói
+OCR-20061,DP-17,Recuperação,36,63.1,Baixada Fluminense
+OCR-20062,DP-16,Roubo de Veículo,13,121.55,Capital
+OCR-20063,DP-08,Recuperação,13,68.31,Grande Niterói
+OCR-20064,DP-14,Roubo de Veículo,8,67.66,Interior Sul
+OCR-20065,DP-07,Roubo de Veículo,24,63.41,Baixada Fluminense
+OCR-20066,DP-13,Furto de Veículo,9,46.44,Grande Niterói
+OCR-20067,DP-19,Furto de Veículo,11,141.16,Interior Sul
+OCR-20068,DP-01,Furto de Veículo,10,38.41,Capital
+OCR-20069,DP-25,Roubo de Veículo,4,59.26,Interior Norte
+OCR-20070,DP-03,Furto de Veículo,25,18.79,Grande Niterói
+OCR-20071,DP-22,Recuperação,7,92.32,Baixada Fluminense
+OCR-20072,DP-11,Roubo de Veículo,17,97.51,Capital
+OCR-20073,DP-18,Roubo de Veículo,9,149.64,Grande Niterói
+OCR-20074,DP-09,Furto de Veículo,26,116.22,Interior Sul
+OCR-20075,DP-14,Roubo de Veículo,15,54.33,Interior Sul
+OCR-20076,DP-11,Furto de Veículo,14,95.54,Capital
+OCR-20077,DP-18,Roubo de Veículo,12,44.71,Grande Niterói
+OCR-20078,DP-22,Roubo de Veículo,14,54.68,Baixada Fluminense
+OCR-20079,DP-05,Furto de Veículo,29,14.51,Interior Norte
+OCR-20080,DP-19,Furto de Veículo,21,62.04,Interior Sul
+OCR-20081,DP-09,Recuperação,9,78.45,Interior Sul
+OCR-20082,DP-28,Roubo de Veículo,4,94.02,Grande Niterói
+OCR-20083,DP-28,Roubo de Veículo,13,157.07,Grande Niterói
+OCR-20084,DP-20,Furto de Veículo,5,87.21,Interior Norte
+OCR-20085,DP-22,Furto de Veículo,5,49.29,Baixada Fluminense
+OCR-20086,DP-15,Roubo de Veículo,4,452.94,Interior Norte
+OCR-20087,DP-01,Furto de Veículo,5,140.09,Capital
+OCR-20088,DP-14,Roubo de Veículo,17,89.53,Interior Sul
+OCR-20089,DP-26,Furto de Veículo,17,61.12,Capital
+OCR-20090,DP-13,Roubo de Veículo,8,25.89,Grande Niterói
+OCR-20091,DP-11,Roubo de Veículo,9,99.0,Capital
+OCR-20092,DP-04,Roubo de Veículo,18,101.61,Interior Sul
+OCR-20093,DP-07,Roubo de Veículo,13,35.96,Baixada Fluminense
+OCR-20094,DP-04,Furto de Veículo,6,67.43,Interior Sul
+OCR-20095,DP-21,Furto de Veículo,7,193.84,Capital
+OCR-20096,DP-16,Recuperação,2,86.52,Capital
+OCR-20097,DP-11,Furto de Veículo,8,75.73,Capital
+OCR-20098,DP-24,Furto de Veículo,11,91.12,Interior Sul
+OCR-20099,DP-23,Roubo de Veículo,9,188.74,Grande Niterói
+OCR-20100,DP-16,Recuperação,11,85.98,Capital
+OCR-20101,DP-29,Roubo de Veículo,5,181.94,Interior Sul
+OCR-20102,DP-04,Furto de Veículo,7,37.8,Interior Sul
+OCR-20103,DP-10,Recuperação,4,31.62,Interior Norte
+OCR-20104,DP-17,Furto de Veículo,5,23.58,Baixada Fluminense
+OCR-20105,DP-21,Furto de Veículo,8,133.36,Capital
+OCR-20106,DP-12,Furto de Veículo,9,27.75,Baixada Fluminense
+OCR-20107,DP-05,Roubo de Veículo,16,7.19,Interior Norte
+OCR-20108,DP-06,Furto de Veículo,6,107.24,Capital
+OCR-20109,DP-08,Roubo de Veículo,5,44.55,Grande Niterói
+OCR-20110,DP-07,Furto de Veículo,3,82.85,Baixada Fluminense
+OCR-20111,DP-23,Roubo de Veículo,20,112.09,Grande Niterói
+OCR-20112,DP-03,Roubo de Veículo,11,87.07,Grande Niterói
+OCR-20113,DP-11,Roubo de Veículo,5,188.44,Capital
+OCR-20114,DP-21,Furto de Veículo,8,51.91,Capital
+OCR-20115,DP-19,Roubo de Veículo,13,98.37,Interior Sul
+OCR-20116,DP-14,Furto de Veículo,9,66.15,Interior Sul
+OCR-20117,DP-24,Furto de Veículo,8,68.16,Interior Sul
+OCR-20118,DP-13,Roubo de Veículo,10,32.19,Grande Niterói
+OCR-20119,DP-02,Roubo de Veículo,16,23.46,Baixada Fluminense
+OCR-20120,DP-27,Roubo de Veículo,12,815.2,Baixada Fluminense
+OCR-20121,DP-07,Roubo de Veículo,20,338.81,Baixada Fluminense
+OCR-20122,DP-11,Recuperação,6,51.75,Capital
+OCR-20123,DP-23,Roubo de Veículo,11,16.2,Grande Niterói
+OCR-20124,DP-01,Recuperação,16,163.72,Capital
+OCR-20125,DP-27,Roubo de Veículo,11,22.15,Baixada Fluminense
+OCR-20126,DP-24,Roubo de Veículo,5,171.7,Interior Sul
+OCR-20127,DP-03,Roubo de Veículo,10,502.93,Grande Niterói
+OCR-20128,DP-20,Furto de Veículo,30,66.58,Interior Norte
+OCR-20129,DP-22,Roubo de Veículo,11,107.9,Baixada Fluminense
+OCR-20130,DP-05,Roubo de Veículo,12,39.75,Interior Norte
+OCR-20131,DP-19,Furto de Veículo,6,55.5,Interior Sul
+OCR-20132,DP-05,Roubo de Veículo,6,35.72,Interior Norte
+OCR-20133,DP-04,Furto de Veículo,9,54.24,Interior Sul
+OCR-20134,DP-24,Furto de Veículo,20,60.18,Interior Sul
+OCR-20135,DP-30,Roubo de Veículo,14,90.7,Interior Norte
+OCR-20136,DP-10,Furto de Veículo,13,98.19,Interior Norte
+OCR-20137,DP-17,Roubo de Veículo,15,228.62,Baixada Fluminense
+OCR-20138,DP-17,Recuperação,17,150.67,Baixada Fluminense
+OCR-20139,DP-22,Recuperação,12,31.16,Baixada Fluminense
+OCR-20140,DP-26,Furto de Veículo,20,124.26,Capital
+OCR-20141,DP-23,Furto de Veículo,16,283.09,Grande Niterói
+OCR-20142,DP-07,Roubo de Veículo,10,42.71,Baixada Fluminense
+OCR-20143,DP-06,Furto de Veículo,22,80.6,Capital
+OCR-20144,DP-07,Furto de Veículo,17,49.63,Baixada Fluminense
+OCR-20145,DP-27,Roubo de Veículo,2,39.71,Baixada Fluminense
+OCR-20146,DP-21,Furto de Veículo,7,30.92,Capital
+OCR-20147,DP-27,Recuperação,10,59.5,Baixada Fluminense
+OCR-20148,DP-08,Roubo de Veículo,20,82.95,Grande Niterói
+OCR-20149,DP-12,Furto de Veículo,7,35.62,Baixada Fluminense
+OCR-20150,DP-20,Roubo de Veículo,14,39.27,Interior Norte
+OCR-20151,DP-26,Roubo de Veículo,4,58.36,Capital
+OCR-20152,DP-03,Furto de Veículo,28,38.39,Grande Niterói
+OCR-20153,DP-20,Roubo de Veículo,9,82.51,Interior Norte
+OCR-20154,DP-25,Furto de Veículo,11,79.04,Interior Norte
+OCR-20155,DP-24,Recuperação,7,11.83,Interior Sul
+OCR-20156,DP-18,Furto de Veículo,23,198.31,Grande Niterói
+OCR-20157,DP-14,Furto de Veículo,15,81.84,Interior Sul
+OCR-20158,DP-06,Recuperação,47,98.52,Capital
+OCR-20159,DP-26,Recuperação,9,45.76,Capital
+OCR-20160,DP-14,Roubo de Veículo,4,105.69,Interior Sul
+OCR-20161,DP-04,Roubo de Veículo,8,48.38,Interior Sul
+OCR-20162,DP-17,Roubo de Veículo,18,17.87,Baixada Fluminense
+OCR-20163,DP-13,Recuperação,4,104.34,Grande Niterói
+OCR-20164,DP-23,Recuperação,9,16.79,Grande Niterói
+OCR-20165,DP-19,Recuperação,6,44.13,Interior Sul
+OCR-20166,DP-14,Recuperação,15,115.88,Interior Sul
+OCR-20167,DP-13,Roubo de Veículo,12,44.13,Grande Niterói
+OCR-20168,DP-04,Recuperação,25,31.81,Interior Sul
+OCR-20169,DP-29,Roubo de Veículo,11,56.87,Interior Sul
+OCR-20170,DP-21,Furto de Veículo,6,125.6,Capital
+OCR-20171,DP-11,Furto de Veículo,14,148.8,Capital
+OCR-20172,DP-09,Recuperação,22,77.66,Interior Sul
+OCR-20173,DP-26,Roubo de Veículo,7,130.65,Capital
+OCR-20174,DP-09,Furto de Veículo,17,194.27,Interior Sul
+OCR-20175,DP-13,Roubo de Veículo,16,35.85,Grande Niterói
+OCR-20176,DP-22,Furto de Veículo,11,58.5,Baixada Fluminense
+OCR-20177,DP-19,Roubo de Veículo,29,28.88,Interior Sul
+OCR-20178,DP-30,Roubo de Veículo,14,16.75,Interior Norte
+OCR-20179,DP-24,Recuperação,15,117.04,Interior Sul
+OCR-20180,DP-29,Roubo de Veículo,4,77.46,Interior Sul
+OCR-20181,DP-13,Roubo de Veículo,13,43.57,Grande Niterói
+OCR-20182,DP-22,Furto de Veículo,9,45.74,Baixada Fluminense
+OCR-20183,DP-26,Roubo de Veículo,10,82.8,Capital
+OCR-20184,DP-01,Recuperação,12,30.81,Capital
+OCR-20185,DP-10,Furto de Veículo,10,113.88,Interior Norte
+OCR-20186,DP-09,Furto de Veículo,8,34.12,Interior Sul
+OCR-20187,DP-23,Recuperação,13,267.27,Grande Niterói
+OCR-20188,DP-29,Furto de Veículo,5,97.69,Interior Sul
+OCR-20189,DP-03,Furto de Veículo,4,105.64,Grande Niterói
+OCR-20190,DP-17,Roubo de Veículo,7,85.61,Baixada Fluminense
+OCR-20191,DP-06,Roubo de Veículo,12,340.58,Capital
+OCR-20192,DP-20,Roubo de Veículo,34,161.25,Interior Norte
+OCR-20193,DP-27,Roubo de Veículo,15,121.47,Baixada Fluminense
+OCR-20194,DP-03,Roubo de Veículo,24,182.48,Grande Niterói
+OCR-20195,DP-04,Furto de Veículo,5,69.79,Interior Sul
+OCR-20196,DP-15,Recuperação,10,167.32,Interior Norte
+OCR-20197,DP-23,Recuperação,10,111.03,Grande Niterói
+OCR-20198,DP-14,Recuperação,5,32.51,Interior Sul
+OCR-20199,DP-21,Roubo de Veículo,10,109.43,Capital
+OCR-20200,DP-02,Furto de Veículo,8,64.44,Baixada Fluminense
+OCR-20201,DP-15,Roubo de Veículo,42,55.72,Interior Norte
+OCR-20202,DP-20,Roubo de Veículo,8,57.58,Interior Norte
+OCR-20203,DP-02,Roubo de Veículo,11,19.72,Baixada Fluminense
+OCR-20204,DP-21,Furto de Veículo,3,70.07,Capital
+OCR-20205,DP-09,Roubo de Veículo,8,270.49,Interior Sul
+OCR-20206,DP-25,Roubo de Veículo,3,129.72,Interior Norte
+OCR-20207,DP-30,Recuperação,17,9.17,Interior Norte
+OCR-20208,DP-27,Roubo de Veículo,24,42.61,Baixada Fluminense
+OCR-20209,DP-29,Roubo de Veículo,4,36.71,Interior Sul
+OCR-20210,DP-19,Recuperação,9,272.16,Interior Sul
+OCR-20211,DP-19,Furto de Veículo,13,27.07,Interior Sul
+OCR-20212,DP-08,Roubo de Veículo,23,41.16,Grande Niterói
+OCR-20213,DP-03,Recuperação,6,197.65,Grande Niterói
+OCR-20214,DP-18,Roubo de Veículo,16,73.81,Grande Niterói
+OCR-20215,DP-03,Roubo de Veículo,4,35.52,Grande Niterói
+OCR-20216,DP-24,Roubo de Veículo,8,129.21,Interior Sul
+OCR-20217,DP-18,Furto de Veículo,13,197.14,Grande Niterói
+OCR-20218,DP-14,Roubo de Veículo,18,76.09,Interior Sul
+OCR-20219,DP-27,Recuperação,8,127.37,Baixada Fluminense
+OCR-20220,DP-27,Roubo de Veículo,8,14.65,Baixada Fluminense
+OCR-20221,DP-30,Roubo de Veículo,22,326.7,Interior Norte
+OCR-20222,DP-01,Roubo de Veículo,25,215.94,Capital
+OCR-20223,DP-11,Roubo de Veículo,29,45.04,Capital
+OCR-20224,DP-22,Furto de Veículo,11,56.19,Baixada Fluminense
+OCR-20225,DP-04,Furto de Veículo,30,20.52,Interior Sul
+OCR-20226,DP-29,Roubo de Veículo,7,44.9,Interior Sul
+OCR-20227,DP-06,Roubo de Veículo,8,105.83,Capital
+OCR-20228,DP-19,Roubo de Veículo,7,47.62,Interior Sul
+OCR-20229,DP-07,Recuperação,9,53.3,Baixada Fluminense
+OCR-20230,DP-18,Roubo de Veículo,12,168.63,Grande Niterói
+OCR-20231,DP-11,Furto de Veículo,4,30.57,Capital
+OCR-20232,DP-14,Roubo de Veículo,6,149.5,Interior Sul
+OCR-20233,DP-18,Roubo de Veículo,11,42.89,Grande Niterói
+OCR-20234,DP-22,Roubo de Veículo,5,98.0,Baixada Fluminense
+OCR-20235,DP-26,Roubo de Veículo,23,23.51,Capital
+OCR-20236,DP-03,Roubo de Veículo,3,43.26,Grande Niterói
+OCR-20237,DP-16,Recuperação,6,306.13,Capital
+OCR-20238,DP-13,Recuperação,28,29.05,Grande Niterói
+OCR-20239,DP-27,Furto de Veículo,16,60.74,Baixada Fluminense
+OCR-20240,DP-12,Roubo de Veículo,13,126.32,Baixada Fluminense
+OCR-20241,DP-06,Roubo de Veículo,18,55.13,Capital
+OCR-20242,DP-13,Furto de Veículo,20,21.75,Grande Niterói
+OCR-20243,DP-07,Roubo de Veículo,8,44.78,Baixada Fluminense
+OCR-20244,DP-21,Furto de Veículo,9,70.66,Capital
+OCR-20245,DP-23,Furto de Veículo,8,95.85,Grande Niterói
+OCR-20246,DP-24,Furto de Veículo,20,69.9,Interior Sul
+OCR-20247,DP-26,Recuperação,6,182.1,Capital
+OCR-20248,DP-24,Furto de Veículo,13,45.88,Interior Sul
+OCR-20249,DP-20,Recuperação,4,33.75,Interior Norte
+OCR-20250,DP-17,Roubo de Veículo,6,153.77,Baixada Fluminense
+OCR-20251,DP-19,Furto de Veículo,13,156.86,Interior Sul
+OCR-20252,DP-30,Furto de Veículo,20,157.63,Interior Norte
+OCR-20253,DP-27,Roubo de Veículo,7,124.43,Baixada Fluminense
+OCR-20254,DP-22,Furto de Veículo,11,62.93,Baixada Fluminense
+OCR-20255,DP-18,Roubo de Veículo,6,178.04,Grande Niterói
+OCR-20256,DP-02,Furto de Veículo,7,264.01,Baixada Fluminense
+OCR-20257,DP-11,Roubo de Veículo,11,43.15,Capital
+OCR-20258,DP-30,Furto de Veículo,22,207.45,Interior Norte
+OCR-20259,DP-13,Roubo de Veículo,37,173.41,Grande Niterói
+OCR-20260,DP-17,Furto de Veículo,11,84.18,Baixada Fluminense
+OCR-20261,DP-20,Recuperação,6,98.49,Interior Norte
+OCR-20262,DP-23,Roubo de Veículo,3,175.56,Grande Niterói
+OCR-20263,DP-24,Recuperação,5,57.13,Interior Sul
+OCR-20264,DP-20,Furto de Veículo,21,149.11,Interior Norte
+OCR-20265,DP-23,Roubo de Veículo,13,42.4,Grande Niterói
+OCR-20266,DP-05,Roubo de Veículo,14,43.46,Interior Norte
+OCR-20267,DP-11,Recuperação,6,29.45,Capital
+OCR-20268,DP-30,Roubo de Veículo,9,56.89,Interior Norte
+OCR-20269,DP-25,Roubo de Veículo,15,105.63,Interior Norte
+OCR-20270,DP-23,Roubo de Veículo,13,67.75,Grande Niterói
+OCR-20271,DP-06,Furto de Veículo,13,135.25,Capital
+OCR-20272,DP-17,Roubo de Veículo,14,30.34,Baixada Fluminense
+OCR-20273,DP-17,Furto de Veículo,20,30.32,Baixada Fluminense
+OCR-20274,DP-22,Furto de Veículo,4,77.52,Baixada Fluminense
+OCR-20275,DP-18,Furto de Veículo,9,28.82,Grande Niterói
+OCR-20276,DP-04,Recuperação,6,66.3,Interior Sul
+OCR-20277,DP-03,Furto de Veículo,15,73.51,Grande Niterói
+OCR-20278,DP-04,Furto de Veículo,8,50.5,Interior Sul
+OCR-20279,DP-18,Recuperação,11,111.47,Grande Niterói
+OCR-20280,DP-17,Recuperação,27,269.7,Baixada Fluminense
+OCR-20281,DP-07,Roubo de Veículo,7,36.03,Baixada Fluminense
+OCR-20282,DP-22,Furto de Veículo,17,41.06,Baixada Fluminense
+OCR-20283,DP-03,Furto de Veículo,8,85.24,Grande Niterói
+OCR-20284,DP-01,Recuperação,10,36.81,Capital
+OCR-20285,DP-16,Recuperação,13,17.8,Capital
+OCR-20286,DP-17,Recuperação,22,214.15,Baixada Fluminense
+OCR-20287,DP-10,Recuperação,6,62.13,Interior Norte
+OCR-20288,DP-18,Roubo de Veículo,3,125.09,Grande Niterói
+OCR-20289,DP-22,Furto de Veículo,7,46.65,Baixada Fluminense
+OCR-20290,DP-16,Roubo de Veículo,3,44.37,Capital
+OCR-20291,DP-03,Recuperação,32,71.46,Grande Niterói
+OCR-20292,DP-04,Furto de Veículo,23,28.18,Interior Sul
+OCR-20293,DP-07,Roubo de Veículo,22,60.72,Baixada Fluminense
+OCR-20294,DP-12,Roubo de Veículo,22,62.91,Baixada Fluminense
+OCR-20295,DP-18,Roubo de Veículo,17,68.87,Grande Niterói
+OCR-20296,DP-30,Roubo de Veículo,18,21.48,Interior Norte
+OCR-20297,DP-05,Furto de Veículo,6,23.45,Interior Norte
+OCR-20298,DP-30,Roubo de Veículo,64,37.87,Interior Norte
+OCR-20299,DP-04,Furto de Veículo,19,36.17,Interior Sul
+OCR-20300,DP-27,Roubo de Veículo,7,56.81,Baixada Fluminense
+OCR-20301,DP-18,Roubo de Veículo,7,94.0,Grande Niterói
+OCR-20302,DP-21,Furto de Veículo,11,54.84,Capital
+OCR-20303,DP-05,Recuperação,9,61.53,Interior Norte
+OCR-20304,DP-10,Furto de Veículo,26,50.62,Interior Norte
+OCR-20305,DP-22,Furto de Veículo,14,16.28,Baixada Fluminense
+OCR-20306,DP-23,Roubo de Veículo,15,44.81,Grande Niterói
+OCR-20307,DP-29,Roubo de Veículo,4,86.73,Interior Sul
+OCR-20308,DP-20,Roubo de Veículo,11,50.25,Interior Norte
+OCR-20309,DP-05,Recuperação,43,172.54,Interior Norte
+OCR-20310,DP-20,Furto de Veículo,19,49.36,Interior Norte
+OCR-20311,DP-24,Recuperação,4,115.28,Interior Sul
+OCR-20312,DP-08,Roubo de Veículo,11,112.39,Grande Niterói
+OCR-20313,DP-30,Recuperação,19,31.05,Interior Norte
+OCR-20314,DP-30,Roubo de Veículo,20,82.31,Interior Norte
+OCR-20315,DP-19,Furto de Veículo,7,56.71,Interior Sul
+OCR-20316,DP-05,Furto de Veículo,9,128.33,Interior Norte
+OCR-20317,DP-28,Recuperação,17,63.13,Grande Niterói
+OCR-20318,DP-11,Recuperação,42,117.02,Capital
+OCR-20319,DP-14,Furto de Veículo,4,65.62,Interior Sul
+OCR-20320,DP-17,Recuperação,2,45.19,Baixada Fluminense
+OCR-20321,DP-19,Roubo de Veículo,14,59.62,Interior Sul
+OCR-20322,DP-01,Roubo de Veículo,7,175.46,Capital
+OCR-20323,DP-07,Roubo de Veículo,7,26.69,Baixada Fluminense
+OCR-20324,DP-09,Roubo de Veículo,4,15.64,Interior Sul
+OCR-20325,DP-18,Roubo de Veículo,7,142.32,Grande Niterói
+OCR-20326,DP-22,Furto de Veículo,17,121.36,Baixada Fluminense
+OCR-20327,DP-30,Furto de Veículo,24,83.31,Interior Norte
+OCR-20328,DP-15,Recuperação,26,50.77,Interior Norte
+OCR-20329,DP-07,Recuperação,42,148.42,Baixada Fluminense
+OCR-20330,DP-21,Furto de Veículo,14,16.06,Capital
+OCR-20331,DP-23,Recuperação,33,52.41,Grande Niterói
+OCR-20332,DP-06,Furto de Veículo,6,155.8,Capital
+OCR-20333,DP-01,Furto de Veículo,12,220.48,Capital
+OCR-20334,DP-09,Roubo de Veículo,15,28.51,Interior Sul
+OCR-20335,DP-28,Roubo de Veículo,17,32.61,Grande Niterói
+OCR-20336,DP-09,Recuperação,6,100.11,Interior Sul
+OCR-20337,DP-06,Recuperação,7,386.54,Capital
+OCR-20338,DP-10,Recuperação,9,21.55,Interior Norte
+OCR-20339,DP-13,Recuperação,23,57.98,Grande Niterói
+OCR-20340,DP-20,Recuperação,14,695.0,Interior Norte
+OCR-20341,DP-13,Roubo de Veículo,16,101.87,Grande Niterói
+OCR-20342,DP-03,Furto de Veículo,23,76.69,Grande Niterói
+OCR-20343,DP-14,Furto de Veículo,37,41.34,Interior Sul
+OCR-20344,DP-25,Furto de Veículo,6,65.17,Interior Norte
+OCR-20345,DP-24,Roubo de Veículo,7,38.81,Interior Sul
+OCR-20346,DP-02,Recuperação,8,44.41,Baixada Fluminense
+OCR-20347,DP-05,Roubo de Veículo,10,42.86,Interior Norte
+OCR-20348,DP-23,Furto de Veículo,41,215.23,Grande Niterói
+OCR-20349,DP-01,Furto de Veículo,12,81.95,Capital
+OCR-20350,DP-24,Roubo de Veículo,6,85.6,Interior Sul
+OCR-20351,DP-20,Furto de Veículo,5,180.05,Interior Norte
+OCR-20352,DP-11,Roubo de Veículo,24,98.82,Capital
+OCR-20353,DP-10,Furto de Veículo,17,68.91,Interior Norte
+OCR-20354,DP-02,Roubo de Veículo,8,359.28,Baixada Fluminense
+OCR-20355,DP-03,Roubo de Veículo,9,74.12,Grande Niterói
+OCR-20356,DP-24,Roubo de Veículo,46,69.37,Interior Sul
+OCR-20357,DP-13,Furto de Veículo,6,17.59,Grande Niterói
+OCR-20358,DP-08,Furto de Veículo,25,155.01,Grande Niterói
+OCR-20359,DP-23,Furto de Veículo,20,72.61,Grande Niterói
+OCR-20360,DP-05,Furto de Veículo,13,19.29,Interior Norte
+OCR-20361,DP-04,Furto de Veículo,12,66.59,Interior Sul
+OCR-20362,DP-04,Roubo de Veículo,8,184.93,Interior Sul
+OCR-20363,DP-27,Roubo de Veículo,6,195.32,Baixada Fluminense
+OCR-20364,DP-20,Recuperação,22,75.5,Interior Norte
+OCR-20365,DP-05,Furto de Veículo,4,166.73,Interior Norte
+OCR-20366,DP-08,Furto de Veículo,20,50.8,Grande Niterói
+OCR-20367,DP-24,Roubo de Veículo,15,22.74,Interior Sul
+OCR-20368,DP-11,Furto de Veículo,20,45.9,Capital
+OCR-20369,DP-16,Recuperação,16,192.16,Capital
+OCR-20370,DP-29,Roubo de Veículo,5,16.59,Interior Sul
+OCR-20371,DP-21,Roubo de Veículo,14,53.95,Capital
+OCR-20372,DP-13,Roubo de Veículo,5,105.49,Grande Niterói
+OCR-20373,DP-14,Roubo de Veículo,32,57.5,Interior Sul
+OCR-20374,DP-02,Recuperação,19,72.58,Baixada Fluminense
+OCR-20375,DP-16,Furto de Veículo,13,108.92,Capital
+OCR-20376,DP-18,Roubo de Veículo,16,275.87,Grande Niterói
+OCR-20377,DP-25,Roubo de Veículo,2,115.0,Interior Norte
+OCR-20378,DP-24,Roubo de Veículo,12,30.44,Interior Sul
+OCR-20379,DP-11,Furto de Veículo,8,36.92,Capital
+OCR-20380,DP-28,Furto de Veículo,19,232.31,Grande Niterói
+OCR-20381,DP-25,Recuperação,31,38.71,Interior Norte
+OCR-20382,DP-09,Roubo de Veículo,12,72.94,Interior Sul
+OCR-20383,DP-09,Roubo de Veículo,16,83.52,Interior Sul
+OCR-20384,DP-14,Roubo de Veículo,18,76.65,Interior Sul
+OCR-20385,DP-16,Recuperação,3,18.93,Capital
+OCR-20386,DP-24,Roubo de Veículo,7,278.3,Interior Sul
+OCR-20387,DP-14,Roubo de Veículo,5,121.0,Interior Sul
+OCR-20388,DP-26,Recuperação,4,58.87,Capital
+OCR-20389,DP-17,Furto de Veículo,10,45.05,Baixada Fluminense
+OCR-20390,DP-11,Roubo de Veículo,21,71.11,Capital
+OCR-20391,DP-07,Roubo de Veículo,3,82.07,Baixada Fluminense
+OCR-20392,DP-17,Furto de Veículo,10,98.69,Baixada Fluminense
+OCR-20393,DP-24,Roubo de Veículo,16,106.38,Interior Sul
+OCR-20394,DP-21,Roubo de Veículo,21,22.86,Capital
+OCR-20395,DP-06,Roubo de Veículo,31,75.93,Capital
+OCR-20396,DP-29,Roubo de Veículo,13,148.4,Interior Sul
+OCR-20397,DP-18,Roubo de Veículo,7,211.83,Grande Niterói
+OCR-20398,DP-16,Roubo de Veículo,10,64.31,Capital
+OCR-20399,DP-22,Furto de Veículo,12,67.15,Baixada Fluminense
+OCR-20400,DP-22,Furto de Veículo,3,111.76,Baixada Fluminense
+OCR-20401,DP-20,Recuperação,78,14.19,Interior Norte
+OCR-20402,DP-21,Furto de Veículo,20,53.99,Capital
+OCR-20403,DP-04,Roubo de Veículo,37,144.35,Interior Sul
+OCR-20404,DP-23,Roubo de Veículo,8,43.31,Grande Niterói
+OCR-20405,DP-06,Roubo de Veículo,7,96.41,Capital
+OCR-20406,DP-11,Recuperação,21,85.43,Capital
+OCR-20407,DP-28,Roubo de Veículo,5,165.6,Grande Niterói
+OCR-20408,DP-12,Furto de Veículo,18,45.24,Baixada Fluminense
+OCR-20409,DP-17,Roubo de Veículo,17,18.71,Baixada Fluminense
+OCR-20410,DP-17,Roubo de Veículo,5,74.15,Baixada Fluminense
+OCR-20411,DP-07,Roubo de Veículo,15,18.35,Baixada Fluminense
+OCR-20412,DP-27,Roubo de Veículo,3,41.43,Baixada Fluminense
+OCR-20413,DP-18,Roubo de Veículo,55,69.51,Grande Niterói
+OCR-20414,DP-10,Roubo de Veículo,7,42.86,Interior Norte
+OCR-20415,DP-13,Roubo de Veículo,9,28.87,Grande Niterói
+OCR-20416,DP-27,Roubo de Veículo,10,70.88,Baixada Fluminense
+OCR-20417,DP-09,Furto de Veículo,22,88.29,Interior Sul
+OCR-20418,DP-28,Furto de Veículo,6,213.92,Grande Niterói
+OCR-20419,DP-01,Recuperação,20,233.17,Capital
+OCR-20420,DP-20,Roubo de Veículo,9,32.06,Interior Norte
+OCR-20421,DP-26,Roubo de Veículo,4,53.16,Capital
+OCR-20422,DP-28,Furto de Veículo,11,58.96,Grande Niterói
+OCR-20423,DP-15,Furto de Veículo,15,60.51,Interior Norte
+OCR-20424,DP-19,Roubo de Veículo,17,69.0,Interior Sul
+OCR-20425,DP-28,Furto de Veículo,8,97.75,Grande Niterói
+OCR-20426,DP-11,Roubo de Veículo,5,78.33,Capital
+OCR-20427,DP-07,Recuperação,9,144.53,Baixada Fluminense
+OCR-20428,DP-22,Furto de Veículo,6,46.47,Baixada Fluminense
+OCR-20429,DP-21,Roubo de Veículo,16,14.46,Capital
+OCR-20430,DP-06,Furto de Veículo,8,193.48,Capital
+OCR-20431,DP-08,Recuperação,8,48.31,Grande Niterói
+OCR-20432,DP-20,Roubo de Veículo,8,64.78,Interior Norte
+OCR-20433,DP-01,Roubo de Veículo,9,58.13,Capital
+OCR-20434,DP-14,Furto de Veículo,6,75.36,Interior Sul
+OCR-20435,DP-08,Roubo de Veículo,38,94.12,Grande Niterói
+OCR-20436,DP-25,Recuperação,6,74.09,Interior Norte
+OCR-20437,DP-19,Recuperação,10,38.85,Interior Sul
+OCR-20438,DP-15,Roubo de Veículo,13,86.68,Interior Norte
+OCR-20439,DP-29,Roubo de Veículo,6,198.57,Interior Sul
+OCR-20440,DP-17,Roubo de Veículo,21,68.27,Baixada Fluminense
+OCR-20441,DP-06,Furto de Veículo,9,59.53,Capital
+OCR-20442,DP-17,Recuperação,22,53.49,Baixada Fluminense
+OCR-20443,DP-26,Recuperação,16,13.11,Capital
+OCR-20444,DP-03,Roubo de Veículo,10,99.19,Grande Niterói
+OCR-20445,DP-18,Recuperação,11,195.16,Grande Niterói
+OCR-20446,DP-23,Roubo de Veículo,12,119.38,Grande Niterói
+OCR-20447,DP-17,Furto de Veículo,23,18.65,Baixada Fluminense
+OCR-20448,DP-16,Roubo de Veículo,6,51.59,Capital
+OCR-20449,DP-04,Furto de Veículo,9,40.23,Interior Sul
+OCR-20450,DP-24,Roubo de Veículo,15,258.11,Interior Sul
+OCR-20451,DP-20,Roubo de Veículo,6,191.64,Interior Norte
+OCR-20452,DP-13,Roubo de Veículo,25,36.4,Grande Niterói
+OCR-20453,DP-26,Roubo de Veículo,14,105.48,Capital
+OCR-20454,DP-06,Roubo de Veículo,21,90.39,Capital
+OCR-20455,DP-03,Roubo de Veículo,21,24.3,Grande Niterói
+OCR-20456,DP-01,Roubo de Veículo,16,98.02,Capital
+OCR-20457,DP-14,Roubo de Veículo,17,76.5,Interior Sul
+OCR-20458,DP-28,Recuperação,14,194.33,Grande Niterói
+OCR-20459,DP-10,Roubo de Veículo,16,33.43,Interior Norte
+OCR-20460,DP-29,Recuperação,10,23.03,Interior Sul
+OCR-20461,DP-14,Recuperação,8,96.35,Interior Sul
+OCR-20462,DP-04,Furto de Veículo,13,93.25,Interior Sul
+OCR-20463,DP-16,Recuperação,17,57.68,Capital
+OCR-20464,DP-23,Roubo de Veículo,29,75.8,Grande Niterói
+OCR-20465,DP-19,Furto de Veículo,19,56.96,Interior Sul
+OCR-20466,DP-21,Recuperação,9,82.61,Capital
+OCR-20467,DP-16,Furto de Veículo,16,88.93,Capital
+OCR-20468,DP-14,Recuperação,14,45.5,Interior Sul
+OCR-20469,DP-12,Roubo de Veículo,8,52.52,Baixada Fluminense
+OCR-20470,DP-18,Furto de Veículo,19,207.38,Grande Niterói
+OCR-20471,DP-25,Roubo de Veículo,9,114.54,Interior Norte
+OCR-20472,DP-06,Furto de Veículo,6,44.68,Capital
+OCR-20473,DP-18,Furto de Veículo,8,62.63,Grande Niterói
+OCR-20474,DP-21,Roubo de Veículo,12,44.63,Capital
+OCR-20475,DP-08,Roubo de Veículo,19,64.32,Grande Niterói
+OCR-20476,DP-29,Roubo de Veículo,13,11.68,Interior Sul
+OCR-20477,DP-07,Furto de Veículo,7,95.92,Baixada Fluminense
+OCR-20478,DP-06,Furto de Veículo,6,31.22,Capital
+OCR-20479,DP-25,Roubo de Veículo,27,164.88,Interior Norte
+OCR-20480,DP-20,Roubo de Veículo,6,34.58,Interior Norte
+OCR-20481,DP-28,Furto de Veículo,15,85.41,Grande Niterói
+OCR-20482,DP-22,Roubo de Veículo,26,62.68,Baixada Fluminense
+OCR-20483,DP-01,Roubo de Veículo,17,42.88,Capital
+OCR-20484,DP-10,Roubo de Veículo,21,62.86,Interior Norte
+OCR-20485,DP-14,Furto de Veículo,17,93.71,Interior Sul
+OCR-20486,DP-02,Roubo de Veículo,11,70.04,Baixada Fluminense
+OCR-20487,DP-05,Furto de Veículo,5,42.13,Interior Norte
+OCR-20488,DP-20,Furto de Veículo,14,19.48,Interior Norte
+OCR-20489,DP-02,Furto de Veículo,8,12.35,Baixada Fluminense
+OCR-20490,DP-01,Roubo de Veículo,24,16.13,Capital
+OCR-20491,DP-23,Roubo de Veículo,5,42.18,Grande Niterói
+OCR-20492,DP-26,Recuperação,6,94.57,Capital
+OCR-20493,DP-27,Roubo de Veículo,8,12.66,Baixada Fluminense
+OCR-20494,DP-26,Furto de Veículo,17,505.95,Capital
+OCR-20495,DP-28,Furto de Veículo,12,60.11,Grande Niterói
+OCR-20496,DP-23,Furto de Veículo,22,16.83,Grande Niterói
+OCR-20497,DP-29,Recuperação,8,56.65,Interior Sul
+OCR-20498,DP-07,Furto de Veículo,13,75.67,Baixada Fluminense
+OCR-20499,DP-04,Roubo de Veículo,8,74.52,Interior Sul
+OCR-20500,DP-29,Roubo de Veículo,16,37.31,Interior Sul
+OCR-20501,DP-04,Roubo de Veículo,11,56.62,Interior Sul
+OCR-20502,DP-20,Roubo de Veículo,25,64.54,Interior Norte
+OCR-20503,DP-24,Roubo de Veículo,20,34.96,Interior Sul
+OCR-20504,DP-19,Recuperação,10,123.34,Interior Sul
+OCR-20505,DP-21,Roubo de Veículo,6,352.82,Capital
+OCR-20506,DP-10,Recuperação,5,61.21,Interior Norte
+OCR-20507,DP-27,Roubo de Veículo,12,48.44,Baixada Fluminense
+OCR-20508,DP-15,Furto de Veículo,16,22.85,Interior Norte
+OCR-20509,DP-19,Recuperação,21,62.13,Interior Sul
+OCR-20510,DP-15,Recuperação,14,23.36,Interior Norte
+OCR-20511,DP-08,Roubo de Veículo,38,49.23,Grande Niterói
+OCR-20512,DP-18,Furto de Veículo,25,790.4,Grande Niterói
+OCR-20513,DP-19,Furto de Veículo,12,46.41,Interior Sul
+OCR-20514,DP-09,Furto de Veículo,8,33.3,Interior Sul
+OCR-20515,DP-14,Roubo de Veículo,6,18.39,Interior Sul
+OCR-20516,DP-27,Furto de Veículo,6,90.58,Baixada Fluminense
+OCR-20517,DP-13,Roubo de Veículo,16,104.7,Grande Niterói
+OCR-20518,DP-04,Recuperação,31,112.18,Interior Sul
+OCR-20519,DP-03,Roubo de Veículo,13,128.08,Grande Niterói
+OCR-20520,DP-26,Furto de Veículo,10,145.23,Capital
+OCR-20521,DP-12,Furto de Veículo,12,49.39,Baixada Fluminense
+OCR-20522,DP-30,Furto de Veículo,13,89.6,Interior Norte
+OCR-20523,DP-29,Furto de Veículo,16,133.99,Interior Sul
+OCR-20524,DP-19,Roubo de Veículo,25,10.43,Interior Sul
+OCR-20525,DP-04,Roubo de Veículo,7,47.6,Interior Sul
+OCR-20526,DP-03,Roubo de Veículo,18,98.94,Grande Niterói
+OCR-20527,DP-24,Roubo de Veículo,3,76.81,Interior Sul
+OCR-20528,DP-01,Recuperação,5,93.3,Capital
+OCR-20529,DP-07,Recuperação,5,13.04,Baixada Fluminense
+OCR-20530,DP-26,Recuperação,10,210.96,Capital
+OCR-20531,DP-12,Furto de Veículo,15,29.21,Baixada Fluminense
+OCR-20532,DP-25,Recuperação,25,112.1,Interior Norte
+OCR-20533,DP-27,Roubo de Veículo,10,36.82,Baixada Fluminense
+OCR-20534,DP-19,Furto de Veículo,10,39.25,Interior Sul
+OCR-20535,DP-13,Roubo de Veículo,8,65.8,Grande Niterói
+OCR-20536,DP-29,Furto de Veículo,12,106.32,Interior Sul
+OCR-20537,DP-18,Furto de Veículo,17,95.82,Grande Niterói
+OCR-20538,DP-02,Recuperação,15,46.64,Baixada Fluminense
+OCR-20539,DP-03,Roubo de Veículo,2,66.92,Grande Niterói
+OCR-20540,DP-12,Roubo de Veículo,5,76.16,Baixada Fluminense
+OCR-20541,DP-19,Roubo de Veículo,11,49.92,Interior Sul
+OCR-20542,DP-07,Furto de Veículo,9,55.66,Baixada Fluminense
+OCR-20543,DP-13,Roubo de Veículo,16,57.79,Grande Niterói
+OCR-20544,DP-03,Roubo de Veículo,36,74.83,Grande Niterói
+OCR-20545,DP-05,Furto de Veículo,4,31.55,Interior Norte
+OCR-20546,DP-06,Roubo de Veículo,5,28.07,Capital
+OCR-20547,DP-18,Roubo de Veículo,9,51.38,Grande Niterói
+OCR-20548,DP-08,Furto de Veículo,7,53.5,Grande Niterói
+OCR-20549,DP-06,Roubo de Veículo,10,46.97,Capital
+OCR-20550,DP-05,Furto de Veículo,9,337.64,Interior Norte
+OCR-20551,DP-17,Furto de Veículo,9,73.26,Baixada Fluminense
+OCR-20552,DP-02,Roubo de Veículo,11,51.89,Baixada Fluminense
+OCR-20553,DP-22,Recuperação,18,219.19,Baixada Fluminense
+OCR-20554,DP-14,Roubo de Veículo,7,37.88,Interior Sul
+OCR-20555,DP-26,Recuperação,6,252.86,Capital
+OCR-20556,DP-29,Roubo de Veículo,23,30.22,Interior Sul
+OCR-20557,DP-17,Roubo de Veículo,4,157.25,Baixada Fluminense
+OCR-20558,DP-18,Roubo de Veículo,7,233.48,Grande Niterói
+OCR-20559,DP-01,Roubo de Veículo,11,157.36,Capital
+OCR-20560,DP-21,Furto de Veículo,3,59.21,Capital
+OCR-20561,DP-04,Furto de Veículo,27,121.76,Interior Sul
+OCR-20562,DP-19,Roubo de Veículo,15,90.33,Interior Sul
+OCR-20563,DP-24,Roubo de Veículo,10,260.05,Interior Sul
+OCR-20564,DP-11,Recuperação,14,44.83,Capital
+OCR-20565,DP-07,Recuperação,10,179.39,Baixada Fluminense
+OCR-20566,DP-04,Furto de Veículo,14,145.18,Interior Sul
+OCR-20567,DP-08,Furto de Veículo,22,88.79,Grande Niterói
+OCR-20568,DP-14,Furto de Veículo,10,97.32,Interior Sul
+OCR-20569,DP-16,Roubo de Veículo,23,24.52,Capital
+OCR-20570,DP-19,Roubo de Veículo,12,67.6,Interior Sul
+OCR-20571,DP-12,Furto de Veículo,31,65.16,Baixada Fluminense
+OCR-20572,DP-24,Roubo de Veículo,10,34.41,Interior Sul
+OCR-20573,DP-29,Furto de Veículo,15,148.72,Interior Sul
+OCR-20574,DP-28,Roubo de Veículo,20,72.13,Grande Niterói
+OCR-20575,DP-25,Roubo de Veículo,13,44.26,Interior Norte
+OCR-20576,DP-22,Roubo de Veículo,5,93.01,Baixada Fluminense
+OCR-20577,DP-02,Furto de Veículo,15,125.52,Baixada Fluminense
+OCR-20578,DP-12,Roubo de Veículo,7,128.87,Baixada Fluminense
+OCR-20579,DP-27,Roubo de Veículo,2,127.48,Baixada Fluminense
+OCR-20580,DP-29,Roubo de Veículo,4,65.73,Interior Sul
+OCR-20581,DP-28,Roubo de Veículo,8,162.27,Grande Niterói
+OCR-20582,DP-10,Roubo de Veículo,12,51.22,Interior Norte
+OCR-20583,DP-23,Roubo de Veículo,22,55.99,Grande Niterói
+OCR-20584,DP-14,Furto de Veículo,10,90.51,Interior Sul
+OCR-20585,DP-17,Roubo de Veículo,12,37.38,Baixada Fluminense
+OCR-20586,DP-26,Recuperação,9,158.69,Capital
+OCR-20587,DP-16,Furto de Veículo,15,45.71,Capital
+OCR-20588,DP-28,Furto de Veículo,9,78.42,Grande Niterói
+OCR-20589,DP-10,Roubo de Veículo,10,64.56,Interior Norte
+OCR-20590,DP-19,Roubo de Veículo,8,40.58,Interior Sul
+OCR-20591,DP-06,Roubo de Veículo,5,85.08,Capital
+OCR-20592,DP-19,Roubo de Veículo,8,65.5,Interior Sul
+OCR-20593,DP-11,Furto de Veículo,10,88.25,Capital
+OCR-20594,DP-08,Roubo de Veículo,9,66.82,Grande Niterói
+OCR-20595,DP-18,Roubo de Veículo,16,25.03,Grande Niterói
+OCR-20596,DP-15,Recuperação,19,44.07,Interior Norte
+OCR-20597,DP-27,Recuperação,23,35.29,Baixada Fluminense
+OCR-20598,DP-02,Recuperação,13,304.29,Baixada Fluminense
+OCR-20599,DP-08,Roubo de Veículo,9,47.42,Grande Niterói
+OCR-20600,DP-25,Furto de Veículo,22,44.95,Interior Norte
+OCR-20601,DP-16,Roubo de Veículo,35,183.41,Capital
+OCR-20602,DP-18,Roubo de Veículo,23,73.17,Grande Niterói
+OCR-20603,DP-09,Recuperação,6,87.6,Interior Sul
+OCR-20604,DP-19,Furto de Veículo,14,87.46,Interior Sul
+OCR-20605,DP-26,Furto de Veículo,18,34.29,Capital
+OCR-20606,DP-26,Roubo de Veículo,17,113.8,Capital
+OCR-20607,DP-27,Roubo de Veículo,11,39.53,Baixada Fluminense
+OCR-20608,DP-19,Recuperação,7,126.24,Interior Sul
+OCR-20609,DP-17,Roubo de Veículo,27,87.02,Baixada Fluminense
+OCR-20610,DP-20,Roubo de Veículo,14,60.09,Interior Norte
+OCR-20611,DP-12,Roubo de Veículo,11,34.18,Baixada Fluminense
+OCR-20612,DP-24,Furto de Veículo,8,128.0,Interior Sul
+OCR-20613,DP-11,Roubo de Veículo,10,108.53,Capital
+OCR-20614,DP-05,Furto de Veículo,6,70.87,Interior Norte
+OCR-20615,DP-08,Furto de Veículo,9,192.5,Grande Niterói
+OCR-20616,DP-16,Furto de Veículo,8,157.42,Capital
+OCR-20617,DP-03,Furto de Veículo,5,188.51,Grande Niterói
+OCR-20618,DP-01,Roubo de Veículo,18,33.65,Capital
+OCR-20619,DP-02,Roubo de Veículo,12,71.07,Baixada Fluminense
+OCR-20620,DP-20,Roubo de Veículo,11,33.11,Interior Norte
+OCR-20621,DP-05,Recuperação,20,45.69,Interior Norte
+OCR-20622,DP-27,Furto de Veículo,3,17.26,Baixada Fluminense
+OCR-20623,DP-10,Furto de Veículo,9,49.58,Interior Norte
+OCR-20624,DP-07,Roubo de Veículo,10,51.26,Baixada Fluminense
+OCR-20625,DP-06,Roubo de Veículo,33,98.85,Capital
+OCR-20626,DP-21,Roubo de Veículo,13,179.18,Capital
+OCR-20627,DP-17,Furto de Veículo,7,69.88,Baixada Fluminense
+OCR-20628,DP-13,Roubo de Veículo,15,209.09,Grande Niterói
+OCR-20629,DP-06,Recuperação,24,27.64,Capital
+OCR-20630,DP-10,Roubo de Veículo,13,21.36,Interior Norte
+OCR-20631,DP-28,Roubo de Veículo,20,64.49,Grande Niterói
+OCR-20632,DP-06,Roubo de Veículo,9,40.52,Capital
+OCR-20633,DP-04,Furto de Veículo,17,53.9,Interior Sul
+OCR-20634,DP-16,Furto de Veículo,18,79.03,Capital
+OCR-20635,DP-01,Recuperação,14,129.54,Capital
+OCR-20636,DP-01,Roubo de Veículo,12,44.73,Capital
+OCR-20637,DP-09,Furto de Veículo,21,45.04,Interior Sul
+OCR-20638,DP-23,Roubo de Veículo,6,303.38,Grande Niterói
+OCR-20639,DP-09,Roubo de Veículo,7,48.93,Interior Sul
+OCR-20640,DP-29,Furto de Veículo,4,9.37,Interior Sul
+OCR-20641,DP-25,Furto de Veículo,45,22.0,Interior Norte
+OCR-20642,DP-23,Roubo de Veículo,30,67.11,Grande Niterói
+OCR-20643,DP-07,Roubo de Veículo,3,115.78,Baixada Fluminense
+OCR-20644,DP-02,Furto de Veículo,7,26.94,Baixada Fluminense
+OCR-20645,DP-18,Furto de Veículo,9,53.63,Grande Niterói
+OCR-20646,DP-30,Recuperação,24,76.17,Interior Norte
+OCR-20647,DP-28,Furto de Veículo,13,43.13,Grande Niterói
+OCR-20648,DP-08,Roubo de Veículo,41,69.24,Grande Niterói
+OCR-20649,DP-14,Roubo de Veículo,11,92.44,Interior Sul
+OCR-20650,DP-13,Furto de Veículo,2,145.47,Grande Niterói
+OCR-20651,DP-28,Furto de Veículo,21,127.33,Grande Niterói
+OCR-20652,DP-25,Furto de Veículo,6,267.76,Interior Norte
+OCR-20653,DP-15,Roubo de Veículo,6,60.97,Interior Norte
+OCR-20654,DP-06,Furto de Veículo,9,41.61,Capital
+OCR-20655,DP-01,Roubo de Veículo,8,208.73,Capital
+OCR-20656,DP-25,Roubo de Veículo,6,36.88,Interior Norte
+OCR-20657,DP-28,Furto de Veículo,7,62.16,Grande Niterói
+OCR-20658,DP-02,Furto de Veículo,7,82.68,Baixada Fluminense
+OCR-20659,DP-15,Roubo de Veículo,13,58.97,Interior Norte
+OCR-20660,DP-11,Furto de Veículo,13,40.14,Capital
+OCR-20661,DP-29,Roubo de Veículo,23,107.64,Interior Sul
+OCR-20662,DP-22,Recuperação,11,43.42,Baixada Fluminense
+OCR-20663,DP-18,Roubo de Veículo,6,40.44,Grande Niterói
+OCR-20664,DP-24,Roubo de Veículo,9,52.81,Interior Sul
+OCR-20665,DP-29,Furto de Veículo,12,23.34,Interior Sul
+OCR-20666,DP-30,Roubo de Veículo,8,33.72,Interior Norte
+OCR-20667,DP-18,Furto de Veículo,10,83.18,Grande Niterói
+OCR-20668,DP-19,Furto de Veículo,9,196.87,Interior Sul
+OCR-20669,DP-07,Recuperação,21,50.75,Baixada Fluminense
+OCR-20670,DP-15,Furto de Veículo,15,133.53,Interior Norte
+OCR-20671,DP-06,Furto de Veículo,10,82.64,Capital
+OCR-20672,DP-08,Furto de Veículo,20,28.49,Grande Niterói
+OCR-20673,DP-05,Roubo de Veículo,7,78.94,Interior Norte
+OCR-20674,DP-24,Recuperação,20,91.32,Interior Sul
+OCR-20675,DP-03,Roubo de Veículo,18,58.84,Grande Niterói
+OCR-20676,DP-20,Roubo de Veículo,11,58.24,Interior Norte
+OCR-20677,DP-23,Furto de Veículo,28,64.85,Grande Niterói
+OCR-20678,DP-19,Roubo de Veículo,15,22.68,Interior Sul
+OCR-20679,DP-03,Roubo de Veículo,4,103.77,Grande Niterói
+OCR-20680,DP-21,Roubo de Veículo,20,43.19,Capital
+OCR-20681,DP-20,Roubo de Veículo,20,216.29,Interior Norte
+OCR-20682,DP-13,Recuperação,12,56.03,Grande Niterói
+OCR-20683,DP-12,Recuperação,7,71.07,Baixada Fluminense
+OCR-20684,DP-06,Recuperação,5,81.78,Capital
+OCR-20685,DP-16,Furto de Veículo,15,168.74,Capital
+OCR-20686,DP-28,Furto de Veículo,22,78.52,Grande Niterói
+OCR-20687,DP-10,Furto de Veículo,19,46.14,Interior Norte
+OCR-20688,DP-18,Furto de Veículo,17,132.68,Grande Niterói
+OCR-20689,DP-12,Roubo de Veículo,16,64.08,Baixada Fluminense
+OCR-20690,DP-06,Recuperação,29,18.69,Capital
+OCR-20691,DP-02,Furto de Veículo,16,87.77,Baixada Fluminense
+OCR-20692,DP-20,Furto de Veículo,77,26.23,Interior Norte
+OCR-20693,DP-27,Roubo de Veículo,20,30.03,Baixada Fluminense
+OCR-20694,DP-24,Roubo de Veículo,14,201.58,Interior Sul
+OCR-20695,DP-20,Roubo de Veículo,5,68.05,Interior Norte
+OCR-20696,DP-06,Furto de Veículo,12,57.4,Capital
+OCR-20697,DP-22,Roubo de Veículo,5,90.67,Baixada Fluminense
+OCR-20698,DP-17,Furto de Veículo,10,31.31,Baixada Fluminense
+OCR-20699,DP-26,Roubo de Veículo,5,34.14,Capital
+OCR-20700,DP-05,Recuperação,22,20.78,Interior Norte
+OCR-20701,DP-08,Roubo de Veículo,12,21.35,Grande Niterói
+OCR-20702,DP-19,Furto de Veículo,7,27.62,Interior Sul
+OCR-20703,DP-04,Recuperação,6,127.33,Interior Sul
+OCR-20704,DP-02,Furto de Veículo,10,63.95,Baixada Fluminense
+OCR-20705,DP-06,Roubo de Veículo,16,59.62,Capital
+OCR-20706,DP-10,Roubo de Veículo,10,84.97,Interior Norte
+OCR-20707,DP-22,Roubo de Veículo,8,136.83,Baixada Fluminense
+OCR-20708,DP-07,Roubo de Veículo,10,366.66,Baixada Fluminense
+OCR-20709,DP-17,Recuperação,19,29.44,Baixada Fluminense
+OCR-20710,DP-15,Recuperação,6,37.76,Interior Norte
+OCR-20711,DP-19,Furto de Veículo,17,53.09,Interior Sul
+OCR-20712,DP-19,Recuperação,8,69.38,Interior Sul
+OCR-20713,DP-20,Recuperação,16,141.85,Interior Norte
+OCR-20714,DP-21,Furto de Veículo,12,49.62,Capital
+OCR-20715,DP-10,Roubo de Veículo,6,66.91,Interior Norte
+OCR-20716,DP-16,Roubo de Veículo,7,139.75,Capital
+OCR-20717,DP-13,Roubo de Veículo,15,129.55,Grande Niterói
+OCR-20718,DP-14,Roubo de Veículo,13,116.2,Interior Sul
+OCR-20719,DP-26,Furto de Veículo,17,124.29,Capital
+OCR-20720,DP-16,Furto de Veículo,12,74.58,Capital
+OCR-20721,DP-06,Roubo de Veículo,9,174.54,Capital
+OCR-20722,DP-26,Roubo de Veículo,38,15.58,Capital
+OCR-20723,DP-27,Roubo de Veículo,4,296.16,Baixada Fluminense
+OCR-20724,DP-15,Roubo de Veículo,13,104.13,Interior Norte
+OCR-20725,DP-14,Furto de Veículo,8,69.74,Interior Sul
+OCR-20726,DP-28,Furto de Veículo,15,21.87,Grande Niterói
+OCR-20727,DP-22,Furto de Veículo,9,54.89,Baixada Fluminense
+OCR-20728,DP-15,Roubo de Veículo,6,229.17,Interior Norte
+OCR-20729,DP-16,Roubo de Veículo,9,139.73,Capital
+OCR-20730,DP-23,Furto de Veículo,12,17.41,Grande Niterói
+OCR-20731,DP-18,Recuperação,11,27.43,Grande Niterói
+OCR-20732,DP-14,Roubo de Veículo,12,68.61,Interior Sul
+OCR-20733,DP-15,Roubo de Veículo,9,76.45,Interior Norte
+OCR-20734,DP-29,Roubo de Veículo,6,36.42,Interior Sul
+OCR-20735,DP-13,Roubo de Veículo,4,312.92,Grande Niterói
+OCR-20736,DP-09,Roubo de Veículo,25,19.29,Interior Sul
+OCR-20737,DP-30,Roubo de Veículo,5,72.16,Interior Norte
+OCR-20738,DP-08,Roubo de Veículo,11,75.27,Grande Niterói
+OCR-20739,DP-22,Furto de Veículo,12,166.49,Baixada Fluminense
+OCR-20740,DP-05,Roubo de Veículo,6,84.04,Interior Norte
+OCR-20741,DP-01,Recuperação,22,95.01,Capital
+OCR-20742,DP-08,Furto de Veículo,9,226.33,Grande Niterói
+OCR-20743,DP-03,Roubo de Veículo,3,131.55,Grande Niterói
+OCR-20744,DP-05,Roubo de Veículo,6,40.03,Interior Norte
+OCR-20745,DP-13,Roubo de Veículo,20,149.15,Grande Niterói
+OCR-20746,DP-09,Roubo de Veículo,7,53.97,Interior Sul
+OCR-20747,DP-03,Recuperação,35,56.64,Grande Niterói
+OCR-20748,DP-30,Roubo de Veículo,3,124.16,Interior Norte
+OCR-20749,DP-28,Furto de Veículo,9,48.18,Grande Niterói
+OCR-20750,DP-01,Furto de Veículo,15,31.89,Capital
+OCR-20751,DP-16,Furto de Veículo,22,38.35,Capital
+OCR-20752,DP-19,Furto de Veículo,16,575.17,Interior Sul
+OCR-20753,DP-13,Furto de Veículo,23,93.02,Grande Niterói
+OCR-20754,DP-22,Roubo de Veículo,17,48.91,Baixada Fluminense
+OCR-20755,DP-24,Roubo de Veículo,12,89.69,Interior Sul
+OCR-20756,DP-04,Roubo de Veículo,12,52.12,Interior Sul
+OCR-20757,DP-16,Roubo de Veículo,25,105.56,Capital
+OCR-20758,DP-29,Recuperação,6,79.18,Interior Sul
+OCR-20759,DP-16,Furto de Veículo,26,12.79,Capital
+OCR-20760,DP-10,Roubo de Veículo,5,76.97,Interior Norte
+OCR-20761,DP-24,Furto de Veículo,12,119.85,Interior Sul
+OCR-20762,DP-09,Roubo de Veículo,16,17.16,Interior Sul
+OCR-20763,DP-17,Recuperação,12,102.93,Baixada Fluminense
+OCR-20764,DP-28,Roubo de Veículo,20,123.97,Grande Niterói
+OCR-20765,DP-27,Roubo de Veículo,16,222.58,Baixada Fluminense
+OCR-20766,DP-23,Roubo de Veículo,36,65.41,Grande Niterói
+OCR-20767,DP-28,Furto de Veículo,9,89.86,Grande Niterói
+OCR-20768,DP-25,Furto de Veículo,24,44.71,Interior Norte
+OCR-20769,DP-09,Roubo de Veículo,22,57.17,Interior Sul
+OCR-20770,DP-03,Furto de Veículo,18,336.24,Grande Niterói
+OCR-20771,DP-24,Recuperação,6,54.75,Interior Sul
+OCR-20772,DP-28,Furto de Veículo,6,119.83,Grande Niterói
+OCR-20773,DP-27,Furto de Veículo,9,20.0,Baixada Fluminense
+OCR-20774,DP-11,Furto de Veículo,12,75.45,Capital
+OCR-20775,DP-28,Recuperação,6,111.34,Grande Niterói
+OCR-20776,DP-13,Roubo de Veículo,6,76.63,Grande Niterói
+OCR-20777,DP-13,Roubo de Veículo,17,81.91,Grande Niterói
+OCR-20778,DP-23,Recuperação,31,61.81,Grande Niterói
+OCR-20779,DP-20,Furto de Veículo,9,244.53,Interior Norte
+OCR-20780,DP-08,Furto de Veículo,13,850.0,Grande Niterói
+OCR-20781,DP-05,Roubo de Veículo,15,96.81,Interior Norte
+OCR-20782,DP-20,Recuperação,5,100.25,Interior Norte
+OCR-20783,DP-19,Furto de Veículo,13,31.91,Interior Sul
+OCR-20784,DP-10,Recuperação,10,58.02,Interior Norte
+OCR-20785,DP-30,Furto de Veículo,8,37.03,Interior Norte
+OCR-20786,DP-30,Furto de Veículo,18,30.97,Interior Norte
+OCR-20787,DP-12,Recuperação,6,12.97,Baixada Fluminense
+OCR-20788,DP-07,Roubo de Veículo,10,52.57,Baixada Fluminense
+OCR-20789,DP-15,Roubo de Veículo,35,65.25,Interior Norte
+OCR-20790,DP-10,Furto de Veículo,12,68.98,Interior Norte
+OCR-20791,DP-15,Furto de Veículo,13,89.45,Interior Norte
+OCR-20792,DP-23,Furto de Veículo,10,40.04,Grande Niterói
+OCR-20793,DP-28,Furto de Veículo,7,103.99,Grande Niterói
+OCR-20794,DP-24,Furto de Veículo,16,25.81,Interior Sul
+OCR-20795,DP-03,Roubo de Veículo,7,225.3,Grande Niterói
+OCR-20796,DP-16,Recuperação,12,71.09,Capital
+OCR-20797,DP-21,Roubo de Veículo,6,98.14,Capital
+OCR-20798,DP-04,Recuperação,28,102.43,Interior Sul
+OCR-20799,DP-15,Furto de Veículo,26,26.51,Interior Norte
+OCR-20800,DP-27,Roubo de Veículo,6,38.48,Baixada Fluminense
+OCR-20801,DP-08,Recuperação,26,84.86,Grande Niterói
+OCR-20802,DP-29,Roubo de Veículo,7,58.03,Interior Sul
+OCR-20803,DP-01,Furto de Veículo,51,159.51,Capital
+OCR-20804,DP-02,Roubo de Veículo,20,232.56,Baixada Fluminense
+OCR-20805,DP-03,Recuperação,6,48.82,Grande Niterói
+OCR-20806,DP-21,Roubo de Veículo,13,44.67,Capital
+OCR-20807,DP-01,Roubo de Veículo,18,18.22,Capital
+OCR-20808,DP-15,Recuperação,20,19.83,Interior Norte
+OCR-20809,DP-04,Furto de Veículo,19,40.28,Interior Sul
+OCR-20810,DP-09,Roubo de Veículo,10,84.6,Interior Sul
+OCR-20811,DP-04,Roubo de Veículo,41,69.14,Interior Sul
+OCR-20812,DP-13,Furto de Veículo,38,84.51,Grande Niterói
+OCR-20813,DP-28,Furto de Veículo,21,27.05,Grande Niterói
+OCR-20814,DP-21,Furto de Veículo,16,32.79,Capital
+OCR-20815,DP-06,Roubo de Veículo,5,63.58,Capital
+OCR-20816,DP-09,Recuperação,12,47.37,Interior Sul
+OCR-20817,DP-19,Roubo de Veículo,16,106.54,Interior Sul
+OCR-20818,DP-28,Furto de Veículo,13,83.34,Grande Niterói
+OCR-20819,DP-12,Roubo de Veículo,21,73.34,Baixada Fluminense
+OCR-20820,DP-08,Furto de Veículo,44,32.18,Grande Niterói
+OCR-20821,DP-05,Furto de Veículo,5,64.01,Interior Norte
+OCR-20822,DP-16,Roubo de Veículo,19,30.95,Capital
+OCR-20823,DP-07,Roubo de Veículo,13,38.55,Baixada Fluminense
+OCR-20824,DP-20,Roubo de Veículo,6,56.91,Interior Norte
+OCR-20825,DP-28,Roubo de Veículo,15,56.54,Grande Niterói
+OCR-20826,DP-07,Furto de Veículo,8,19.78,Baixada Fluminense
+OCR-20827,DP-04,Roubo de Veículo,3,289.18,Interior Sul
+OCR-20828,DP-02,Roubo de Veículo,45,83.81,Baixada Fluminense
+OCR-20829,DP-15,Roubo de Veículo,7,44.81,Interior Norte
+OCR-20830,DP-03,Furto de Veículo,38,84.85,Grande Niterói
+OCR-20831,DP-21,Roubo de Veículo,15,54.64,Capital
+OCR-20832,DP-20,Roubo de Veículo,5,48.37,Interior Norte
+OCR-20833,DP-29,Roubo de Veículo,10,24.18,Interior Sul
+OCR-20834,DP-14,Recuperação,12,25.65,Interior Sul
+OCR-20835,DP-17,Roubo de Veículo,8,46.39,Baixada Fluminense
+OCR-20836,DP-23,Furto de Veículo,22,61.74,Grande Niterói
+OCR-20837,DP-10,Recuperação,9,29.03,Interior Norte
+OCR-20838,DP-08,Furto de Veículo,13,79.36,Grande Niterói
+OCR-20839,DP-24,Roubo de Veículo,21,290.23,Interior Sul
+OCR-20840,DP-20,Furto de Veículo,17,108.73,Interior Norte
+OCR-20841,DP-12,Roubo de Veículo,11,20.58,Baixada Fluminense
+OCR-20842,DP-19,Roubo de Veículo,11,46.94,Interior Sul
+OCR-20843,DP-12,Furto de Veículo,12,47.65,Baixada Fluminense
+OCR-20844,DP-07,Roubo de Veículo,15,428.56,Baixada Fluminense
+OCR-20845,DP-18,Roubo de Veículo,23,124.86,Grande Niterói
+OCR-20846,DP-17,Roubo de Veículo,13,177.36,Baixada Fluminense
+OCR-20847,DP-07,Recuperação,11,59.64,Baixada Fluminense
+OCR-20848,DP-13,Roubo de Veículo,21,62.74,Grande Niterói
+OCR-20849,DP-25,Furto de Veículo,9,65.95,Interior Norte
+OCR-20850,DP-28,Furto de Veículo,4,41.78,Grande Niterói
+OCR-20851,DP-04,Roubo de Veículo,5,92.11,Interior Sul
+OCR-20852,DP-27,Roubo de Veículo,10,303.81,Baixada Fluminense
+OCR-20853,DP-21,Furto de Veículo,8,26.03,Capital
+OCR-20854,DP-01,Furto de Veículo,12,135.67,Capital
+OCR-20855,DP-06,Furto de Veículo,8,51.24,Capital
+OCR-20856,DP-18,Roubo de Veículo,16,162.74,Grande Niterói
+OCR-20857,DP-04,Furto de Veículo,9,204.48,Interior Sul
+OCR-20858,DP-01,Recuperação,17,53.87,Capital
+OCR-20859,DP-07,Roubo de Veículo,13,150.22,Baixada Fluminense
+OCR-20860,DP-01,Recuperação,6,73.62,Capital
+OCR-20861,DP-09,Furto de Veículo,17,24.33,Interior Sul
+OCR-20862,DP-29,Furto de Veículo,19,23.64,Interior Sul
+OCR-20863,DP-17,Furto de Veículo,12,41.78,Baixada Fluminense
+OCR-20864,DP-08,Roubo de Veículo,5,27.65,Grande Niterói
+OCR-20865,DP-23,Roubo de Veículo,20,26.59,Grande Niterói
+OCR-20866,DP-25,Furto de Veículo,4,184.67,Interior Norte
+OCR-20867,DP-30,Roubo de Veículo,6,96.07,Interior Norte
+OCR-20868,DP-12,Furto de Veículo,12,59.88,Baixada Fluminense
+OCR-20869,DP-26,Roubo de Veículo,8,113.49,Capital
+OCR-20870,DP-11,Furto de Veículo,8,112.89,Capital
+OCR-20871,DP-03,Roubo de Veículo,14,56.84,Grande Niterói
+OCR-20872,DP-28,Roubo de Veículo,11,203.74,Grande Niterói
+OCR-20873,DP-17,Roubo de Veículo,5,127.76,Baixada Fluminense
+OCR-20874,DP-29,Furto de Veículo,12,49.38,Interior Sul
+OCR-20875,DP-23,Furto de Veículo,6,41.11,Grande Niterói
+OCR-20876,DP-28,Recuperação,11,34.4,Grande Niterói
+OCR-20877,DP-22,Roubo de Veículo,7,26.47,Baixada Fluminense
+OCR-20878,DP-05,Furto de Veículo,12,109.42,Interior Norte
+OCR-20879,DP-02,Recuperação,37,23.49,Baixada Fluminense
+OCR-20880,DP-22,Furto de Veículo,15,79.93,Baixada Fluminense
+OCR-20881,DP-06,Roubo de Veículo,20,166.03,Capital
+OCR-20882,DP-05,Roubo de Veículo,12,44.08,Interior Norte
+OCR-20883,DP-21,Furto de Veículo,17,42.07,Capital
+OCR-20884,DP-29,Furto de Veículo,12,71.58,Interior Sul
+OCR-20885,DP-28,Roubo de Veículo,17,21.16,Grande Niterói
+OCR-20886,DP-05,Furto de Veículo,5,121.82,Interior Norte
+OCR-20887,DP-03,Furto de Veículo,36,69.54,Grande Niterói
+OCR-20888,DP-15,Roubo de Veículo,4,121.8,Interior Norte
+OCR-20889,DP-08,Furto de Veículo,21,90.79,Grande Niterói
+OCR-20890,DP-02,Furto de Veículo,9,61.58,Baixada Fluminense
+OCR-20891,DP-10,Furto de Veículo,11,92.09,Interior Norte
+OCR-20892,DP-28,Roubo de Veículo,10,95.46,Grande Niterói
+OCR-20893,DP-20,Roubo de Veículo,25,165.49,Interior Norte
+OCR-20894,DP-16,Furto de Veículo,6,208.83,Capital
+OCR-20895,DP-28,Roubo de Veículo,18,57.91,Grande Niterói
+OCR-20896,DP-04,Furto de Veículo,25,148.39,Interior Sul
+OCR-20897,DP-27,Furto de Veículo,11,96.03,Baixada Fluminense
+OCR-20898,DP-23,Furto de Veículo,6,20.86,Grande Niterói
+OCR-20899,DP-27,Furto de Veículo,21,95.48,Baixada Fluminense
+OCR-20900,DP-29,Recuperação,5,160.3,Interior Sul
+OCR-20901,DP-25,Roubo de Veículo,14,120.08,Interior Norte
+OCR-20902,DP-16,Furto de Veículo,5,28.7,Capital
+OCR-20903,DP-22,Recuperação,9,97.35,Baixada Fluminense
+OCR-20904,DP-18,Roubo de Veículo,8,131.81,Grande Niterói
+OCR-20905,DP-18,Roubo de Veículo,3,163.83,Grande Niterói
+OCR-20906,DP-30,Recuperação,7,108.27,Interior Norte
+OCR-20907,DP-18,Roubo de Veículo,9,95.95,Grande Niterói
+OCR-20908,DP-12,Recuperação,5,152.05,Baixada Fluminense
+OCR-20909,DP-29,Roubo de Veículo,27,36.17,Interior Sul
+OCR-20910,DP-23,Roubo de Veículo,20,73.91,Grande Niterói
+OCR-20911,DP-07,Roubo de Veículo,6,137.49,Baixada Fluminense
+OCR-20912,DP-26,Roubo de Veículo,10,54.6,Capital
+OCR-20913,DP-26,Furto de Veículo,18,139.58,Capital
+OCR-20914,DP-20,Furto de Veículo,7,73.84,Interior Norte
+OCR-20915,DP-04,Roubo de Veículo,29,137.25,Interior Sul
+OCR-20916,DP-02,Recuperação,10,68.6,Baixada Fluminense
+OCR-20917,DP-22,Roubo de Veículo,4,115.26,Baixada Fluminense
+OCR-20918,DP-27,Recuperação,17,40.44,Baixada Fluminense
+OCR-20919,DP-29,Roubo de Veículo,3,97.72,Interior Sul
+OCR-20920,DP-19,Roubo de Veículo,7,30.86,Interior Sul
+OCR-20921,DP-27,Recuperação,12,31.03,Baixada Fluminense
+OCR-20922,DP-13,Roubo de Veículo,20,158.75,Grande Niterói
+OCR-20923,DP-12,Roubo de Veículo,7,108.84,Baixada Fluminense
+OCR-20924,DP-23,Furto de Veículo,13,124.49,Grande Niterói
+OCR-20925,DP-08,Furto de Veículo,13,106.87,Grande Niterói
+OCR-20926,DP-15,Roubo de Veículo,9,44.92,Interior Norte
+OCR-20927,DP-22,Roubo de Veículo,12,222.48,Baixada Fluminense
+OCR-20928,DP-13,Roubo de Veículo,12,165.05,Grande Niterói
+OCR-20929,DP-23,Roubo de Veículo,11,103.95,Grande Niterói
+OCR-20930,DP-04,Roubo de Veículo,18,144.71,Interior Sul
+OCR-20931,DP-25,Furto de Veículo,9,64.72,Interior Norte
+OCR-20932,DP-25,Furto de Veículo,7,25.78,Interior Norte
+OCR-20933,DP-20,Furto de Veículo,17,121.85,Interior Norte
+OCR-20934,DP-21,Roubo de Veículo,25,226.09,Capital
+OCR-20935,DP-11,Recuperação,6,56.44,Capital
+OCR-20936,DP-15,Roubo de Veículo,9,86.41,Interior Norte
+OCR-20937,DP-28,Furto de Veículo,12,14.83,Grande Niterói
+OCR-20938,DP-03,Furto de Veículo,10,101.95,Grande Niterói
+OCR-20939,DP-13,Roubo de Veículo,34,157.52,Grande Niterói
+OCR-20940,DP-24,Roubo de Veículo,17,130.08,Interior Sul
+OCR-20941,DP-22,Furto de Veículo,7,126.48,Baixada Fluminense
+OCR-20942,DP-01,Furto de Veículo,8,121.28,Capital
+OCR-20943,DP-17,Roubo de Veículo,18,53.72,Baixada Fluminense
+OCR-20944,DP-01,Recuperação,8,56.8,Capital
+OCR-20945,DP-15,Roubo de Veículo,6,56.05,Interior Norte
+OCR-20946,DP-18,Roubo de Veículo,15,48.06,Grande Niterói
+OCR-20947,DP-28,Furto de Veículo,10,77.52,Grande Niterói
+OCR-20948,DP-18,Furto de Veículo,11,73.21,Grande Niterói
+OCR-20949,DP-12,Recuperação,4,70.78,Baixada Fluminense
+OCR-20950,DP-18,Roubo de Veículo,17,85.28,Grande Niterói
+OCR-20951,DP-21,Furto de Veículo,16,50.71,Capital
+OCR-20952,DP-05,Recuperação,2,86.63,Interior Norte
+OCR-20953,DP-18,Roubo de Veículo,4,99.95,Grande Niterói
+OCR-20954,DP-26,Recuperação,12,253.12,Capital
+OCR-20955,DP-30,Recuperação,4,180.07,Interior Norte
+OCR-20956,DP-17,Roubo de Veículo,6,222.65,Baixada Fluminense
+OCR-20957,DP-08,Roubo de Veículo,12,36.24,Grande Niterói
+OCR-20958,DP-02,Roubo de Veículo,34,184.9,Baixada Fluminense
+OCR-20959,DP-14,Roubo de Veículo,30,30.67,Interior Sul
+OCR-20960,DP-14,Recuperação,8,34.33,Interior Sul
+OCR-20961,DP-24,Recuperação,6,10.24,Interior Sul
+OCR-20962,DP-02,Roubo de Veículo,27,79.08,Baixada Fluminense
+OCR-20963,DP-04,Roubo de Veículo,17,127.31,Interior Sul
+OCR-20964,DP-10,Furto de Veículo,6,73.92,Interior Norte
+OCR-20965,DP-15,Furto de Veículo,7,250.56,Interior Norte
+OCR-20966,DP-10,Roubo de Veículo,12,597.24,Interior Norte
+OCR-20967,DP-04,Furto de Veículo,7,38.03,Interior Sul
+OCR-20968,DP-06,Roubo de Veículo,14,122.18,Capital
+OCR-20969,DP-28,Roubo de Veículo,40,32.73,Grande Niterói
+OCR-20970,DP-21,Roubo de Veículo,8,110.08,Capital
+OCR-20971,DP-23,Roubo de Veículo,37,207.23,Grande Niterói
+OCR-20972,DP-04,Furto de Veículo,12,59.96,Interior Sul
+OCR-20973,DP-17,Recuperação,1,176.62,Baixada Fluminense
+OCR-20974,DP-28,Roubo de Veículo,16,173.74,Grande Niterói
+OCR-20975,DP-04,Roubo de Veículo,7,39.9,Interior Sul
+OCR-20976,DP-12,Roubo de Veículo,5,56.97,Baixada Fluminense
+OCR-20977,DP-06,Roubo de Veículo,44,27.3,Capital
+OCR-20978,DP-01,Furto de Veículo,5,47.01,Capital
+OCR-20979,DP-15,Roubo de Veículo,35,17.29,Interior Norte
+OCR-20980,DP-13,Roubo de Veículo,12,31.19,Grande Niterói
+OCR-20981,DP-17,Roubo de Veículo,32,67.32,Baixada Fluminense
+OCR-20982,DP-05,Furto de Veículo,8,25.23,Interior Norte
+OCR-20983,DP-05,Furto de Veículo,13,101.64,Interior Norte
+OCR-20984,DP-27,Furto de Veículo,4,21.41,Baixada Fluminense
+OCR-20985,DP-11,Furto de Veículo,5,138.48,Capital
+OCR-20986,DP-29,Roubo de Veículo,6,84.1,Interior Sul
+OCR-20987,DP-28,Recuperação,20,64.65,Grande Niterói
+OCR-20988,DP-04,Roubo de Veículo,8,41.09,Interior Sul
+OCR-20989,DP-27,Furto de Veículo,14,27.08,Baixada Fluminense
+OCR-20990,DP-05,Furto de Veículo,17,710.8,Interior Norte
+OCR-20991,DP-24,Furto de Veículo,7,169.11,Interior Sul
+OCR-20992,DP-13,Roubo de Veículo,10,37.03,Grande Niterói
+OCR-20993,DP-25,Roubo de Veículo,7,49.62,Interior Norte
+OCR-20994,DP-11,Furto de Veículo,31,157.61,Capital
+OCR-20995,DP-20,Furto de Veículo,22,44.47,Interior Norte
+OCR-20996,DP-13,Roubo de Veículo,20,23.26,Grande Niterói
+OCR-20997,DP-16,Furto de Veículo,5,108.4,Capital
+OCR-20998,DP-27,Furto de Veículo,8,392.6,Baixada Fluminense
+OCR-20999,DP-03,Roubo de Veículo,37,116.46,Grande Niterói
+OCR-21000,DP-13,Recuperação,9,34.09,Grande Niterói
+OCR-21001,DP-15,Recuperação,45,88.77,Interior Norte
+OCR-21002,DP-15,Roubo de Veículo,14,33.11,Interior Norte
+OCR-21003,DP-07,Roubo de Veículo,2,54.58,Baixada Fluminense
+OCR-21004,DP-02,Roubo de Veículo,9,42.62,Baixada Fluminense
+OCR-21005,DP-16,Roubo de Veículo,8,47.2,Capital
+OCR-21006,DP-25,Furto de Veículo,42,44.18,Interior Norte
+OCR-21007,DP-08,Furto de Veículo,10,96.06,Grande Niterói
+OCR-21008,DP-18,Furto de Veículo,13,13.4,Grande Niterói
+OCR-21009,DP-29,Recuperação,3,33.65,Interior Sul
+OCR-21010,DP-17,Roubo de Veículo,21,27.38,Baixada Fluminense
+OCR-21011,DP-25,Furto de Veículo,30,35.36,Interior Norte
+OCR-21012,DP-26,Roubo de Veículo,7,58.52,Capital
+OCR-21013,DP-29,Furto de Veículo,8,56.35,Interior Sul
+OCR-21014,DP-20,Recuperação,18,22.91,Interior Norte
+OCR-21015,DP-13,Recuperação,5,156.28,Grande Niterói
+OCR-21016,DP-14,Furto de Veículo,5,64.31,Interior Sul
+OCR-21017,DP-16,Furto de Veículo,14,51.64,Capital
+OCR-21018,DP-26,Furto de Veículo,16,69.83,Capital
+OCR-21019,DP-26,Roubo de Veículo,10,51.33,Capital
+OCR-21020,DP-08,Recuperação,11,84.39,Grande Niterói
+OCR-21021,DP-07,Roubo de Veículo,10,48.39,Baixada Fluminense
+OCR-21022,DP-05,Roubo de Veículo,7,19.91,Interior Norte
+OCR-21023,DP-10,Roubo de Veículo,10,102.65,Interior Norte
+OCR-21024,DP-15,Furto de Veículo,9,114.1,Interior Norte
+OCR-21025,DP-23,Recuperação,26,23.1,Grande Niterói
+OCR-21026,DP-23,Roubo de Veículo,11,42.02,Grande Niterói
+OCR-21027,DP-30,Recuperação,13,40.65,Interior Norte
+OCR-21028,DP-30,Roubo de Veículo,12,33.33,Interior Norte
+OCR-21029,DP-13,Recuperação,38,131.94,Grande Niterói
+OCR-21030,DP-10,Recuperação,20,51.87,Interior Norte
+OCR-21031,DP-19,Recuperação,23,91.27,Interior Sul
+OCR-21032,DP-02,Furto de Veículo,18,50.08,Baixada Fluminense
+OCR-21033,DP-11,Roubo de Veículo,16,107.19,Capital
+OCR-21034,DP-14,Roubo de Veículo,10,26.2,Interior Sul
+OCR-21035,DP-08,Roubo de Veículo,17,62.44,Grande Niterói
+OCR-21036,DP-07,Furto de Veículo,30,109.88,Baixada Fluminense
+OCR-21037,DP-05,Furto de Veículo,9,56.29,Interior Norte
+OCR-21038,DP-08,Recuperação,9,57.87,Grande Niterói
+OCR-21039,DP-25,Roubo de Veículo,5,124.66,Interior Norte
+OCR-21040,DP-30,Roubo de Veículo,7,371.28,Interior Norte
+OCR-21041,DP-02,Furto de Veículo,13,102.06,Baixada Fluminense
+OCR-21042,DP-27,Roubo de Veículo,18,92.14,Baixada Fluminense
+OCR-21043,DP-16,Roubo de Veículo,20,37.7,Capital
+OCR-21044,DP-23,Furto de Veículo,19,98.91,Grande Niterói
+OCR-21045,DP-26,Roubo de Veículo,6,56.05,Capital
+OCR-21046,DP-24,Roubo de Veículo,20,130.77,Interior Sul
+OCR-21047,DP-12,Recuperação,12,72.23,Baixada Fluminense
+OCR-21048,DP-17,Roubo de Veículo,28,265.09,Baixada Fluminense
+OCR-21049,DP-21,Recuperação,11,55.08,Capital
+OCR-21050,DP-19,Roubo de Veículo,11,145.19,Interior Sul
+OCR-21051,DP-09,Furto de Veículo,5,11.49,Interior Sul
+OCR-21052,DP-09,Roubo de Veículo,9,78.51,Interior Sul
+OCR-21053,DP-29,Roubo de Veículo,7,160.81,Interior Sul
+OCR-21054,DP-15,Furto de Veículo,6,173.58,Interior Norte
+OCR-21055,DP-25,Roubo de Veículo,16,70.82,Interior Norte
+OCR-21056,DP-21,Furto de Veículo,27,93.59,Capital
+OCR-21057,DP-06,Recuperação,12,47.11,Capital
+OCR-21058,DP-26,Roubo de Veículo,11,39.97,Capital
+OCR-21059,DP-09,Recuperação,4,148.47,Interior Sul
+OCR-21060,DP-11,Roubo de Veículo,7,67.65,Capital
+OCR-21061,DP-09,Roubo de Veículo,12,28.22,Interior Sul
+OCR-21062,DP-08,Furto de Veículo,13,62.71,Grande Niterói
+OCR-21063,DP-29,Furto de Veículo,9,36.16,Interior Sul
+OCR-21064,DP-11,Roubo de Veículo,7,39.91,Capital
+OCR-21065,DP-03,Furto de Veículo,19,51.11,Grande Niterói
+OCR-21066,DP-10,Roubo de Veículo,14,83.08,Interior Norte
+OCR-21067,DP-25,Recuperação,5,127.98,Interior Norte
+OCR-21068,DP-03,Furto de Veículo,15,39.11,Grande Niterói
+OCR-21069,DP-24,Roubo de Veículo,24,136.99,Interior Sul
+OCR-21070,DP-11,Furto de Veículo,3,69.22,Capital
+OCR-21071,DP-13,Recuperação,16,48.99,Grande Niterói
+OCR-21072,DP-02,Roubo de Veículo,9,69.59,Baixada Fluminense
+OCR-21073,DP-26,Roubo de Veículo,5,88.99,Capital
+OCR-21074,DP-11,Roubo de Veículo,9,63.64,Capital
+OCR-21075,DP-27,Recuperação,4,72.44,Baixada Fluminense
+OCR-21076,DP-12,Roubo de Veículo,7,162.1,Baixada Fluminense
+OCR-21077,DP-28,Roubo de Veículo,11,51.48,Grande Niterói
+OCR-21078,DP-07,Recuperação,5,14.37,Baixada Fluminense
+OCR-21079,DP-02,Roubo de Veículo,8,100.43,Baixada Fluminense
+OCR-21080,DP-12,Roubo de Veículo,10,50.16,Baixada Fluminense
+OCR-21081,DP-07,Roubo de Veículo,3,43.9,Baixada Fluminense
+OCR-21082,DP-09,Roubo de Veículo,12,52.98,Interior Sul
+OCR-21083,DP-24,Furto de Veículo,65,113.46,Interior Sul
+OCR-21084,DP-02,Furto de Veículo,32,119.48,Baixada Fluminense
+OCR-21085,DP-07,Furto de Veículo,16,23.72,Baixada Fluminense
+OCR-21086,DP-22,Furto de Veículo,17,74.37,Baixada Fluminense
+OCR-21087,DP-29,Furto de Veículo,16,230.14,Interior Sul
+OCR-21088,DP-22,Roubo de Veículo,12,38.92,Baixada Fluminense
+OCR-21089,DP-03,Roubo de Veículo,17,37.0,Grande Niterói
+OCR-21090,DP-13,Furto de Veículo,10,205.16,Grande Niterói
+OCR-21091,DP-01,Roubo de Veículo,16,47.19,Capital
+OCR-21092,DP-26,Roubo de Veículo,36,9.81,Capital
+OCR-21093,DP-20,Furto de Veículo,10,59.14,Interior Norte
+OCR-21094,DP-21,Roubo de Veículo,12,171.82,Capital
+OCR-21095,DP-08,Roubo de Veículo,12,21.47,Grande Niterói
+OCR-21096,DP-12,Roubo de Veículo,7,60.2,Baixada Fluminense
+OCR-21097,DP-05,Roubo de Veículo,7,55.64,Interior Norte
+OCR-21098,DP-24,Roubo de Veículo,12,92.0,Interior Sul
+OCR-21099,DP-26,Recuperação,5,75.11,Capital
+OCR-21100,DP-14,Recuperação,6,63.65,Interior Sul
+OCR-21101,DP-05,Furto de Veículo,6,38.44,Interior Norte
+OCR-21102,DP-11,Furto de Veículo,5,117.29,Capital
+OCR-21103,DP-27,Roubo de Veículo,16,111.84,Baixada Fluminense
+OCR-21104,DP-28,Recuperação,6,54.64,Grande Niterói
+OCR-21105,DP-30,Furto de Veículo,13,59.18,Interior Norte
+OCR-21106,DP-03,Recuperação,8,27.37,Grande Niterói
+OCR-21107,DP-01,Recuperação,12,43.08,Capital
+OCR-21108,DP-24,Roubo de Veículo,26,100.42,Interior Sul
+OCR-21109,DP-04,Recuperação,8,63.08,Interior Sul
+OCR-21110,DP-30,Furto de Veículo,15,267.52,Interior Norte
+OCR-21111,DP-26,Roubo de Veículo,24,18.42,Capital
+OCR-21112,DP-01,Roubo de Veículo,55,105.98,Capital
+OCR-21113,DP-08,Recuperação,19,35.77,Grande Niterói
+OCR-21114,DP-30,Recuperação,7,137.65,Interior Norte
+OCR-21115,DP-10,Roubo de Veículo,5,49.37,Interior Norte
+OCR-21116,DP-15,Roubo de Veículo,15,108.45,Interior Norte
+OCR-21117,DP-27,Recuperação,18,46.87,Baixada Fluminense
+OCR-21118,DP-04,Furto de Veículo,25,84.77,Interior Sul
+OCR-21119,DP-29,Roubo de Veículo,4,230.26,Interior Sul
+OCR-21120,DP-23,Roubo de Veículo,34,67.17,Grande Niterói
+OCR-21121,DP-24,Furto de Veículo,9,22.53,Interior Sul
+OCR-21122,DP-01,Recuperação,5,55.04,Capital
+OCR-21123,DP-23,Furto de Veículo,22,56.84,Grande Niterói
+OCR-21124,DP-11,Roubo de Veículo,15,88.31,Capital
+OCR-21125,DP-09,Roubo de Veículo,17,74.57,Interior Sul
+OCR-21126,DP-21,Recuperação,27,113.99,Capital
+OCR-21127,DP-16,Roubo de Veículo,8,52.6,Capital
+OCR-21128,DP-10,Recuperação,32,321.04,Interior Norte
+OCR-21129,DP-24,Furto de Veículo,14,105.56,Interior Sul
+OCR-21130,DP-18,Roubo de Veículo,11,30.36,Grande Niterói
+OCR-21131,DP-04,Roubo de Veículo,17,119.52,Interior Sul
+OCR-21132,DP-26,Furto de Veículo,13,79.26,Capital
+OCR-21133,DP-12,Roubo de Veículo,7,506.26,Baixada Fluminense
+OCR-21134,DP-21,Roubo de Veículo,4,47.37,Capital
+OCR-21135,DP-07,Furto de Veículo,32,50.62,Baixada Fluminense
+OCR-21136,DP-18,Furto de Veículo,16,67.89,Grande Niterói
+OCR-21137,DP-30,Roubo de Veículo,17,92.25,Interior Norte
+OCR-21138,DP-05,Roubo de Veículo,10,44.3,Interior Norte
+OCR-21139,DP-03,Roubo de Veículo,7,157.19,Grande Niterói
+OCR-21140,DP-22,Roubo de Veículo,19,180.32,Baixada Fluminense
+OCR-21141,DP-20,Roubo de Veículo,9,54.0,Interior Norte
+OCR-21142,DP-06,Roubo de Veículo,7,150.22,Capital
+OCR-21143,DP-21,Roubo de Veículo,20,97.8,Capital
+OCR-21144,DP-18,Roubo de Veículo,6,27.97,Grande Niterói
+OCR-21145,DP-23,Roubo de Veículo,19,49.02,Grande Niterói
+OCR-21146,DP-12,Recuperação,8,297.07,Baixada Fluminense
+OCR-21147,DP-09,Roubo de Veículo,6,44.57,Interior Sul
+OCR-21148,DP-08,Furto de Veículo,14,51.72,Grande Niterói
+OCR-21149,DP-13,Furto de Veículo,17,83.43,Grande Niterói
+OCR-21150,DP-30,Furto de Veículo,21,54.57,Interior Norte
+OCR-21151,DP-16,Roubo de Veículo,10,120.16,Capital
+OCR-21152,DP-09,Recuperação,40,137.21,Interior Sul
+OCR-21153,DP-22,Recuperação,10,49.54,Baixada Fluminense
+OCR-21154,DP-30,Roubo de Veículo,3,174.56,Interior Norte
+OCR-21155,DP-15,Furto de Veículo,14,195.18,Interior Norte
+OCR-21156,DP-26,Recuperação,15,62.75,Capital
+OCR-21157,DP-17,Recuperação,4,24.52,Baixada Fluminense
+OCR-21158,DP-28,Furto de Veículo,15,42.05,Grande Niterói
+OCR-21159,DP-23,Furto de Veículo,21,16.66,Grande Niterói
+OCR-21160,DP-01,Roubo de Veículo,12,128.51,Capital
+OCR-21161,DP-16,Roubo de Veículo,12,40.96,Capital
+OCR-21162,DP-06,Roubo de Veículo,13,145.97,Capital
+OCR-21163,DP-26,Recuperação,11,183.08,Capital
+OCR-21164,DP-04,Furto de Veículo,8,53.18,Interior Sul
+OCR-21165,DP-08,Roubo de Veículo,49,114.3,Grande Niterói
+OCR-21166,DP-27,Recuperação,38,25.22,Baixada Fluminense
+OCR-21167,DP-30,Roubo de Veículo,5,25.27,Interior Norte
+OCR-21168,DP-07,Furto de Veículo,7,60.67,Baixada Fluminense
+OCR-21169,DP-13,Roubo de Veículo,7,14.18,Grande Niterói
+OCR-21170,DP-10,Furto de Veículo,13,195.51,Interior Norte
+OCR-21171,DP-06,Furto de Veículo,19,82.78,Capital
+OCR-21172,DP-21,Recuperação,17,71.59,Capital
+OCR-21173,DP-08,Roubo de Veículo,24,76.36,Grande Niterói
+OCR-21174,DP-12,Roubo de Veículo,6,46.88,Baixada Fluminense
+OCR-21175,DP-12,Furto de Veículo,8,21.27,Baixada Fluminense
+OCR-21176,DP-16,Furto de Veículo,15,28.73,Capital
+OCR-21177,DP-05,Furto de Veículo,7,65.84,Interior Norte
+OCR-21178,DP-08,Roubo de Veículo,9,154.78,Grande Niterói
+OCR-21179,DP-26,Roubo de Veículo,14,83.98,Capital
+OCR-21180,DP-19,Roubo de Veículo,8,111.14,Interior Sul
+OCR-21181,DP-02,Furto de Veículo,15,47.43,Baixada Fluminense
+OCR-21182,DP-21,Recuperação,8,136.4,Capital
+OCR-21183,DP-30,Furto de Veículo,6,27.84,Interior Norte
+OCR-21184,DP-11,Recuperação,13,64.22,Capital
+OCR-21185,DP-27,Furto de Veículo,21,34.2,Baixada Fluminense
+OCR-21186,DP-17,Furto de Veículo,7,47.04,Baixada Fluminense
+OCR-21187,DP-03,Roubo de Veículo,10,42.32,Grande Niterói
+OCR-21188,DP-21,Furto de Veículo,16,229.65,Capital
+OCR-21189,DP-01,Roubo de Veículo,6,21.21,Capital
+OCR-21190,DP-21,Furto de Veículo,13,57.93,Capital
+OCR-21191,DP-03,Furto de Veículo,6,107.06,Grande Niterói
+OCR-21192,DP-23,Recuperação,5,43.03,Grande Niterói
+OCR-21193,DP-26,Furto de Veículo,17,130.6,Capital
+OCR-21194,DP-24,Furto de Veículo,12,82.92,Interior Sul
+OCR-21195,DP-20,Furto de Veículo,6,90.84,Interior Norte
+OCR-21196,DP-06,Furto de Veículo,11,79.86,Capital
+OCR-21197,DP-21,Roubo de Veículo,10,28.33,Capital
+OCR-21198,DP-05,Roubo de Veículo,8,107.87,Interior Norte
+OCR-21199,DP-04,Furto de Veículo,26,51.21,Interior Sul
+OCR-21200,DP-18,Furto de Veículo,13,138.88,Grande Niterói
+OCR-21201,DP-27,Roubo de Veículo,5,87.22,Baixada Fluminense
+OCR-21202,DP-18,Recuperação,12,32.46,Grande Niterói
+OCR-21203,DP-20,Roubo de Veículo,15,55.89,Interior Norte
+OCR-21204,DP-04,Furto de Veículo,33,75.41,Interior Sul
+OCR-21205,DP-27,Roubo de Veículo,5,70.01,Baixada Fluminense
+OCR-21206,DP-25,Roubo de Veículo,23,101.88,Interior Norte
+OCR-21207,DP-03,Furto de Veículo,27,151.08,Grande Niterói
+OCR-21208,DP-29,Recuperação,6,32.02,Interior Sul
+OCR-21209,DP-03,Furto de Veículo,12,24.98,Grande Niterói
+OCR-21210,DP-04,Roubo de Veículo,4,920.0,Interior Sul
+OCR-21211,DP-27,Roubo de Veículo,12,91.05,Baixada Fluminense
+OCR-21212,DP-01,Roubo de Veículo,7,231.92,Capital
+OCR-21213,DP-21,Furto de Veículo,11,43.42,Capital
+OCR-21214,DP-15,Furto de Veículo,53,80.53,Interior Norte
+OCR-21215,DP-22,Roubo de Veículo,12,15.58,Baixada Fluminense
+OCR-21216,DP-15,Recuperação,21,43.77,Interior Norte
+OCR-21217,DP-05,Recuperação,11,30.45,Interior Norte
+OCR-21218,DP-10,Furto de Veículo,7,135.34,Interior Norte
+OCR-21219,DP-13,Recuperação,35,84.21,Grande Niterói
+OCR-21220,DP-05,Furto de Veículo,17,115.61,Interior Norte
+OCR-21221,DP-30,Furto de Veículo,6,152.59,Interior Norte
+OCR-21222,DP-16,Roubo de Veículo,19,51.98,Capital
+OCR-21223,DP-29,Roubo de Veículo,24,74.02,Interior Sul
+OCR-21224,DP-28,Recuperação,44,44.4,Grande Niterói
+OCR-21225,DP-02,Roubo de Veículo,14,41.03,Baixada Fluminense
+OCR-21226,DP-09,Roubo de Veículo,17,24.59,Interior Sul
+OCR-21227,DP-15,Roubo de Veículo,6,72.84,Interior Norte
+OCR-21228,DP-09,Roubo de Veículo,10,56.34,Interior Sul
+OCR-21229,DP-29,Furto de Veículo,4,94.85,Interior Sul
+OCR-21230,DP-30,Roubo de Veículo,40,383.73,Interior Norte
+OCR-21231,DP-01,Furto de Veículo,4,56.25,Capital
+OCR-21232,DP-06,Roubo de Veículo,10,166.14,Capital
+OCR-21233,DP-01,Furto de Veículo,15,268.0,Capital
+OCR-21234,DP-20,Furto de Veículo,15,65.68,Interior Norte
+OCR-21235,DP-17,Furto de Veículo,17,107.48,Baixada Fluminense
+OCR-21236,DP-12,Roubo de Veículo,4,20.6,Baixada Fluminense
+OCR-21237,DP-07,Roubo de Veículo,14,73.65,Baixada Fluminense
+OCR-21238,DP-05,Recuperação,4,62.57,Interior Norte
+OCR-21239,DP-01,Roubo de Veículo,12,48.45,Capital
+OCR-21240,DP-09,Roubo de Veículo,14,66.15,Interior Sul
+OCR-21241,DP-16,Roubo de Veículo,4,94.87,Capital
+OCR-21242,DP-22,Recuperação,19,108.35,Baixada Fluminense
+OCR-21243,DP-04,Furto de Veículo,22,77.75,Interior Sul
+OCR-21244,DP-25,Roubo de Veículo,17,58.33,Interior Norte
+OCR-21245,DP-07,Furto de Veículo,10,45.98,Baixada Fluminense
+OCR-21246,DP-19,Roubo de Veículo,5,75.85,Interior Sul
+OCR-21247,DP-19,Furto de Veículo,13,14.2,Interior Sul
+OCR-21248,DP-09,Recuperação,6,84.37,Interior Sul
+OCR-21249,DP-30,Furto de Veículo,19,68.92,Interior Norte
+OCR-21250,DP-07,Roubo de Veículo,34,35.37,Baixada Fluminense
+OCR-21251,DP-08,Furto de Veículo,13,68.3,Grande Niterói
+OCR-21252,DP-12,Roubo de Veículo,12,206.76,Baixada Fluminense
+OCR-21253,DP-02,Roubo de Veículo,19,51.07,Baixada Fluminense
+OCR-21254,DP-28,Furto de Veículo,4,20.42,Grande Niterói
+OCR-21255,DP-30,Roubo de Veículo,18,35.14,Interior Norte
+OCR-21256,DP-02,Roubo de Veículo,8,44.18,Baixada Fluminense
+OCR-21257,DP-03,Furto de Veículo,5,30.98,Grande Niterói
+OCR-21258,DP-21,Furto de Veículo,17,60.07,Capital
+OCR-21259,DP-03,Roubo de Veículo,13,54.12,Grande Niterói
+OCR-21260,DP-04,Furto de Veículo,8,151.18,Interior Sul
+OCR-21261,DP-30,Roubo de Veículo,4,245.16,Interior Norte
+OCR-21262,DP-13,Furto de Veículo,6,181.76,Grande Niterói
+OCR-21263,DP-03,Recuperação,36,36.53,Grande Niterói
+OCR-21264,DP-26,Roubo de Veículo,17,61.94,Capital
+OCR-21265,DP-12,Furto de Veículo,10,18.58,Baixada Fluminense
+OCR-21266,DP-23,Roubo de Veículo,7,68.57,Grande Niterói
+OCR-21267,DP-21,Recuperação,11,40.69,Capital
+OCR-21268,DP-09,Roubo de Veículo,7,85.77,Interior Sul
+OCR-21269,DP-07,Roubo de Veículo,23,60.97,Baixada Fluminense
+OCR-21270,DP-10,Roubo de Veículo,17,78.47,Interior Norte
+OCR-21271,DP-13,Recuperação,18,71.71,Grande Niterói
+OCR-21272,DP-22,Recuperação,3,129.65,Baixada Fluminense
+OCR-21273,DP-29,Recuperação,6,61.33,Interior Sul
+OCR-21274,DP-27,Roubo de Veículo,7,110.83,Baixada Fluminense
+OCR-21275,DP-19,Furto de Veículo,4,102.52,Interior Sul
+OCR-21276,DP-12,Furto de Veículo,20,149.64,Baixada Fluminense
+OCR-21277,DP-28,Furto de Veículo,6,52.31,Grande Niterói
+OCR-21278,DP-14,Roubo de Veículo,11,158.74,Interior Sul
+OCR-21279,DP-14,Recuperação,4,104.39,Interior Sul
+OCR-21280,DP-01,Roubo de Veículo,12,90.44,Capital
+OCR-21281,DP-24,Furto de Veículo,4,206.51,Interior Sul
+OCR-21282,DP-06,Recuperação,11,42.83,Capital
+OCR-21283,DP-01,Roubo de Veículo,17,34.49,Capital
+OCR-21284,DP-12,Furto de Veículo,20,111.46,Baixada Fluminense
+OCR-21285,DP-09,Furto de Veículo,15,22.66,Interior Sul
+OCR-21286,DP-05,Roubo de Veículo,7,71.72,Interior Norte
+OCR-21287,DP-18,Furto de Veículo,12,91.87,Grande Niterói
+OCR-21288,DP-18,Roubo de Veículo,20,63.86,Grande Niterói
+OCR-21289,DP-17,Roubo de Veículo,7,58.64,Baixada Fluminense
+OCR-21290,DP-24,Roubo de Veículo,9,48.83,Interior Sul
+OCR-21291,DP-13,Recuperação,10,118.63,Grande Niterói
+OCR-21292,DP-27,Roubo de Veículo,12,80.96,Baixada Fluminense
+OCR-21293,DP-24,Roubo de Veículo,6,90.33,Interior Sul
+OCR-21294,DP-22,Recuperação,6,41.48,Baixada Fluminense
+OCR-21295,DP-09,Furto de Veículo,10,84.88,Interior Sul
+OCR-21296,DP-30,Roubo de Veículo,10,98.51,Interior Norte
+OCR-21297,DP-15,Recuperação,22,104.78,Interior Norte
+OCR-21298,DP-11,Furto de Veículo,17,40.56,Capital
+OCR-21299,DP-06,Recuperação,15,22.01,Capital
+OCR-21300,DP-07,Furto de Veículo,10,56.87,Baixada Fluminense
+OCR-21301,DP-13,Roubo de Veículo,9,51.56,Grande Niterói
+OCR-21302,DP-18,Roubo de Veículo,19,48.84,Grande Niterói
+OCR-21303,DP-04,Roubo de Veículo,17,50.98,Interior Sul
+OCR-21304,DP-23,Furto de Veículo,8,120.19,Grande Niterói
+OCR-21305,DP-04,Roubo de Veículo,3,24.95,Interior Sul
+OCR-21306,DP-17,Furto de Veículo,7,70.94,Baixada Fluminense
+OCR-21307,DP-05,Roubo de Veículo,10,40.5,Interior Norte
+OCR-21308,DP-25,Recuperação,9,53.76,Interior Norte
+OCR-21309,DP-27,Roubo de Veículo,15,74.26,Baixada Fluminense
+OCR-21310,DP-02,Furto de Veículo,9,23.52,Baixada Fluminense
+OCR-21311,DP-27,Recuperação,11,29.6,Baixada Fluminense
+OCR-21312,DP-30,Roubo de Veículo,11,162.94,Interior Norte
+OCR-21313,DP-27,Furto de Veículo,16,9.6,Baixada Fluminense
+OCR-21314,DP-09,Roubo de Veículo,18,30.33,Interior Sul
+OCR-21315,DP-21,Roubo de Veículo,16,53.62,Capital
+OCR-21316,DP-25,Furto de Veículo,11,94.31,Interior Norte
+OCR-21317,DP-01,Roubo de Veículo,14,117.35,Capital
+OCR-21318,DP-12,Recuperação,56,30.61,Baixada Fluminense
+OCR-21319,DP-13,Recuperação,6,36.7,Grande Niterói
+OCR-21320,DP-06,Roubo de Veículo,6,135.88,Capital
+OCR-21321,DP-02,Roubo de Veículo,12,64.19,Baixada Fluminense
+OCR-21322,DP-12,Furto de Veículo,15,88.23,Baixada Fluminense
+OCR-21323,DP-16,Furto de Veículo,9,44.96,Capital
+OCR-21324,DP-15,Furto de Veículo,14,49.86,Interior Norte
+OCR-21325,DP-20,Roubo de Veículo,14,49.16,Interior Norte
+OCR-21326,DP-21,Roubo de Veículo,6,24.63,Capital
+OCR-21327,DP-21,Roubo de Veículo,11,166.86,Capital
+OCR-21328,DP-26,Roubo de Veículo,26,348.34,Capital
+OCR-21329,DP-01,Roubo de Veículo,16,117.3,Capital
+OCR-21330,DP-07,Roubo de Veículo,2,111.73,Baixada Fluminense
+OCR-21331,DP-17,Furto de Veículo,24,151.33,Baixada Fluminense
+OCR-21332,DP-28,Recuperação,5,86.36,Grande Niterói
+OCR-21333,DP-24,Furto de Veículo,70,53.29,Interior Sul
+OCR-21334,DP-19,Furto de Veículo,12,260.57,Interior Sul
+OCR-21335,DP-07,Roubo de Veículo,22,149.75,Baixada Fluminense
+OCR-21336,DP-09,Furto de Veículo,10,22.66,Interior Sul
+OCR-21337,DP-06,Furto de Veículo,6,37.05,Capital
+OCR-21338,DP-21,Recuperação,22,31.2,Capital
+OCR-21339,DP-15,Furto de Veículo,12,77.43,Interior Norte
+OCR-21340,DP-05,Furto de Veículo,15,12.82,Interior Norte
+OCR-21341,DP-14,Recuperação,21,25.97,Interior Sul
+OCR-21342,DP-18,Furto de Veículo,5,71.98,Grande Niterói
+OCR-21343,DP-04,Recuperação,11,119.95,Interior Sul
+OCR-21344,DP-19,Roubo de Veículo,52,45.25,Interior Sul
+OCR-21345,DP-13,Roubo de Veículo,24,47.73,Grande Niterói
+OCR-21346,DP-08,Roubo de Veículo,8,153.86,Grande Niterói
+OCR-21347,DP-18,Furto de Veículo,23,121.24,Grande Niterói
+OCR-21348,DP-25,Furto de Veículo,14,41.66,Interior Norte
+OCR-21349,DP-26,Roubo de Veículo,8,161.08,Capital
+OCR-21350,DP-29,Roubo de Veículo,7,254.97,Interior Sul
+OCR-21351,DP-16,Furto de Veículo,47,24.2,Capital
+OCR-21352,DP-11,Roubo de Veículo,12,49.98,Capital
+OCR-21353,DP-16,Recuperação,12,436.7,Capital
+OCR-21354,DP-17,Furto de Veículo,8,69.84,Baixada Fluminense
+OCR-21355,DP-21,Roubo de Veículo,9,57.13,Capital
+OCR-21356,DP-24,Furto de Veículo,41,85.48,Interior Sul
+OCR-21357,DP-19,Roubo de Veículo,17,25.62,Interior Sul
+OCR-21358,DP-06,Furto de Veículo,15,171.19,Capital
+OCR-21359,DP-29,Roubo de Veículo,11,38.57,Interior Sul
+OCR-21360,DP-04,Recuperação,16,119.12,Interior Sul
+OCR-21361,DP-29,Roubo de Veículo,20,69.61,Interior Sul
+OCR-21362,DP-07,Roubo de Veículo,11,48.28,Baixada Fluminense
+OCR-21363,DP-15,Furto de Veículo,15,48.84,Interior Norte
+OCR-21364,DP-05,Furto de Veículo,30,60.13,Interior Norte
+OCR-21365,DP-16,Furto de Veículo,6,36.56,Capital
+OCR-21366,DP-15,Roubo de Veículo,23,110.74,Interior Norte
+OCR-21367,DP-05,Roubo de Veículo,6,143.06,Interior Norte
+OCR-21368,DP-01,Roubo de Veículo,4,21.27,Capital
+OCR-21369,DP-26,Recuperação,48,51.61,Capital
+OCR-21370,DP-01,Roubo de Veículo,14,157.31,Capital
+OCR-21371,DP-10,Roubo de Veículo,3,27.39,Interior Norte
+OCR-21372,DP-26,Furto de Veículo,16,29.04,Capital
+OCR-21373,DP-11,Roubo de Veículo,6,80.45,Capital
+OCR-21374,DP-18,Roubo de Veículo,8,43.12,Grande Niterói
+OCR-21375,DP-27,Roubo de Veículo,16,140.89,Baixada Fluminense
+OCR-21376,DP-04,Furto de Veículo,23,37.51,Interior Sul
+OCR-21377,DP-29,Furto de Veículo,8,27.18,Interior Sul
+OCR-21378,DP-04,Furto de Veículo,4,44.28,Interior Sul
+OCR-21379,DP-04,Roubo de Veículo,28,26.72,Interior Sul
+OCR-21380,DP-26,Roubo de Veículo,16,128.73,Capital
+OCR-21381,DP-24,Furto de Veículo,15,35.05,Interior Sul
+OCR-21382,DP-05,Roubo de Veículo,16,49.68,Interior Norte
+OCR-21383,DP-06,Furto de Veículo,9,52.87,Capital
+OCR-21384,DP-08,Roubo de Veículo,5,263.73,Grande Niterói
+OCR-21385,DP-02,Roubo de Veículo,8,156.02,Baixada Fluminense
+OCR-21386,DP-04,Recuperação,25,58.04,Interior Sul
+OCR-21387,DP-09,Roubo de Veículo,13,35.46,Interior Sul
+OCR-21388,DP-04,Recuperação,3,81.6,Interior Sul
+OCR-21389,DP-07,Recuperação,7,17.64,Baixada Fluminense
+OCR-21390,DP-09,Roubo de Veículo,10,45.69,Interior Sul
+OCR-21391,DP-29,Roubo de Veículo,11,138.73,Interior Sul
+OCR-21392,DP-21,Furto de Veículo,18,203.6,Capital
+OCR-21393,DP-14,Furto de Veículo,7,13.46,Interior Sul
+OCR-21394,DP-09,Recuperação,8,82.63,Interior Sul
+OCR-21395,DP-18,Roubo de Veículo,32,40.77,Grande Niterói
+OCR-21396,DP-25,Roubo de Veículo,33,47.52,Interior Norte
+OCR-21397,DP-25,Furto de Veículo,11,232.73,Interior Norte
+OCR-21398,DP-16,Roubo de Veículo,7,36.37,Capital
+OCR-21399,DP-30,Roubo de Veículo,4,241.65,Interior Norte
+OCR-21400,DP-05,Roubo de Veículo,26,53.77,Interior Norte
+OCR-21401,DP-22,Roubo de Veículo,5,167.35,Baixada Fluminense
+OCR-21402,DP-24,Roubo de Veículo,19,68.5,Interior Sul
+OCR-21403,DP-16,Roubo de Veículo,4,41.66,Capital
+OCR-21404,DP-23,Furto de Veículo,12,51.89,Grande Niterói
+OCR-21405,DP-01,Furto de Veículo,7,23.73,Capital
+OCR-21406,DP-06,Furto de Veículo,9,122.55,Capital
+OCR-21407,DP-14,Roubo de Veículo,22,52.9,Interior Sul
+OCR-21408,DP-20,Roubo de Veículo,8,34.25,Interior Norte
+OCR-21409,DP-04,Roubo de Veículo,14,251.52,Interior Sul
+OCR-21410,DP-14,Roubo de Veículo,7,134.22,Interior Sul
+OCR-21411,DP-08,Roubo de Veículo,4,44.77,Grande Niterói
+OCR-21412,DP-11,Roubo de Veículo,27,58.08,Capital
+OCR-21413,DP-20,Roubo de Veículo,8,60.53,Interior Norte
+OCR-21414,DP-09,Furto de Veículo,11,143.02,Interior Sul
+OCR-21415,DP-24,Furto de Veículo,44,25.5,Interior Sul
+OCR-21416,DP-10,Roubo de Veículo,11,300.31,Interior Norte
+OCR-21417,DP-30,Recuperação,11,16.89,Interior Norte
+OCR-21418,DP-27,Recuperação,15,64.07,Baixada Fluminense
+OCR-21419,DP-16,Furto de Veículo,4,28.77,Capital
+OCR-21420,DP-10,Roubo de Veículo,6,145.16,Interior Norte
+OCR-21421,DP-01,Recuperação,6,60.87,Capital
+OCR-21422,DP-27,Furto de Veículo,18,220.35,Baixada Fluminense
+OCR-21423,DP-03,Furto de Veículo,21,40.33,Grande Niterói
+OCR-21424,DP-05,Recuperação,12,54.46,Interior Norte
+OCR-21425,DP-15,Roubo de Veículo,6,50.0,Interior Norte
+OCR-21426,DP-18,Recuperação,11,57.46,Grande Niterói
+OCR-21427,DP-18,Furto de Veículo,20,37.68,Grande Niterói
+OCR-21428,DP-11,Furto de Veículo,6,55.14,Capital
+OCR-21429,DP-22,Roubo de Veículo,14,75.29,Baixada Fluminense
+OCR-21430,DP-11,Roubo de Veículo,6,51.07,Capital
+OCR-21431,DP-01,Roubo de Veículo,17,207.17,Capital
+OCR-21432,DP-07,Roubo de Veículo,25,24.95,Baixada Fluminense
+OCR-21433,DP-04,Recuperação,23,43.39,Interior Sul
+OCR-21434,DP-04,Roubo de Veículo,9,57.97,Interior Sul
+OCR-21435,DP-29,Furto de Veículo,12,152.27,Interior Sul
+OCR-21436,DP-24,Furto de Veículo,14,42.37,Interior Sul
+OCR-21437,DP-14,Furto de Veículo,30,26.34,Interior Sul
+OCR-21438,DP-22,Roubo de Veículo,18,144.03,Baixada Fluminense
+OCR-21439,DP-25,Furto de Veículo,5,67.1,Interior Norte
+OCR-21440,DP-25,Furto de Veículo,14,32.61,Interior Norte
+OCR-21441,DP-29,Furto de Veículo,20,84.18,Interior Sul
+OCR-21442,DP-23,Recuperação,26,57.05,Grande Niterói
+OCR-21443,DP-19,Roubo de Veículo,8,79.03,Interior Sul
+OCR-21444,DP-20,Recuperação,4,105.64,Interior Norte
+OCR-21445,DP-14,Furto de Veículo,15,111.51,Interior Sul
+OCR-21446,DP-05,Roubo de Veículo,9,11.11,Interior Norte
+OCR-21447,DP-06,Recuperação,20,164.06,Capital
+OCR-21448,DP-20,Roubo de Veículo,12,11.94,Interior Norte
+OCR-21449,DP-12,Recuperação,7,133.75,Baixada Fluminense
+OCR-21450,DP-13,Recuperação,3,42.28,Grande Niterói
+OCR-21451,DP-22,Furto de Veículo,12,57.42,Baixada Fluminense
+OCR-21452,DP-16,Recuperação,17,58.87,Capital
+OCR-21453,DP-05,Recuperação,25,79.38,Interior Norte
+OCR-21454,DP-12,Roubo de Veículo,9,73.24,Baixada Fluminense
+OCR-21455,DP-25,Recuperação,17,149.39,Interior Norte
+OCR-21456,DP-10,Roubo de Veículo,5,60.73,Interior Norte
+OCR-21457,DP-26,Roubo de Veículo,9,79.64,Capital
+OCR-21458,DP-23,Roubo de Veículo,14,53.87,Grande Niterói
+OCR-21459,DP-26,Roubo de Veículo,17,45.74,Capital
+OCR-21460,DP-09,Furto de Veículo,17,213.04,Interior Sul
+OCR-21461,DP-21,Recuperação,6,36.79,Capital
+OCR-21462,DP-14,Furto de Veículo,85,83.63,Interior Sul
+OCR-21463,DP-09,Roubo de Veículo,19,149.87,Interior Sul
+OCR-21464,DP-19,Furto de Veículo,19,101.11,Interior Sul
+OCR-21465,DP-23,Furto de Veículo,7,51.01,Grande Niterói
+OCR-21466,DP-20,Roubo de Veículo,12,28.57,Interior Norte
+OCR-21467,DP-20,Roubo de Veículo,7,92.1,Interior Norte
+OCR-21468,DP-07,Roubo de Veículo,5,25.63,Baixada Fluminense
+OCR-21469,DP-13,Roubo de Veículo,16,41.57,Grande Niterói
+OCR-21470,DP-01,Roubo de Veículo,9,97.23,Capital
+OCR-21471,DP-07,Roubo de Veículo,13,104.97,Baixada Fluminense
+OCR-21472,DP-01,Furto de Veículo,40,78.45,Capital
+OCR-21473,DP-23,Furto de Veículo,12,106.45,Grande Niterói
+OCR-21474,DP-30,Roubo de Veículo,5,44.38,Interior Norte
+OCR-21475,DP-03,Roubo de Veículo,2,100.51,Grande Niterói
+OCR-21476,DP-16,Roubo de Veículo,5,56.25,Capital
+OCR-21477,DP-19,Furto de Veículo,6,184.8,Interior Sul
+OCR-21478,DP-11,Roubo de Veículo,8,67.55,Capital
+OCR-21479,DP-28,Furto de Veículo,5,101.49,Grande Niterói
+OCR-21480,DP-27,Roubo de Veículo,15,78.96,Baixada Fluminense
+OCR-21481,DP-16,Recuperação,9,50.27,Capital
+OCR-21482,DP-27,Roubo de Veículo,25,123.22,Baixada Fluminense
+OCR-21483,DP-05,Roubo de Veículo,9,79.38,Interior Norte
+OCR-21484,DP-28,Recuperação,22,27.04,Grande Niterói
+OCR-21485,DP-19,Furto de Veículo,62,66.16,Interior Sul
+OCR-21486,DP-09,Furto de Veículo,9,84.79,Interior Sul
+OCR-21487,DP-30,Roubo de Veículo,11,290.53,Interior Norte
+OCR-21488,DP-09,Recuperação,7,158.69,Interior Sul
+OCR-21489,DP-29,Roubo de Veículo,18,118.11,Interior Sul
+OCR-21490,DP-01,Furto de Veículo,15,31.37,Capital
+OCR-21491,DP-26,Roubo de Veículo,4,35.48,Capital
+OCR-21492,DP-20,Furto de Veículo,39,189.28,Interior Norte
+OCR-21493,DP-09,Recuperação,20,32.05,Interior Sul
+OCR-21494,DP-09,Roubo de Veículo,9,88.31,Interior Sul
+OCR-21495,DP-11,Roubo de Veículo,5,86.87,Capital
+OCR-21496,DP-04,Recuperação,46,95.66,Interior Sul
+OCR-21497,DP-19,Roubo de Veículo,10,59.32,Interior Sul
+OCR-21498,DP-29,Furto de Veículo,14,54.61,Interior Sul
+OCR-21499,DP-26,Recuperação,8,85.87,Capital
